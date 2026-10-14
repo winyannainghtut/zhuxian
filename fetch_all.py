@@ -32,7 +32,8 @@ def fetch(n, tries=3):
                 if not paras:
                     paras = [l.strip() for l in body.get_text("\n").splitlines() if l.strip()]
                 title = t.get_text(" ", strip=True) if t else f"Zhu Xian Chapter {n}"
-                paras = [p for p in paras if "support Novels on Patreon" not in p and "adsbygoogle" not in p]
+                skip_keys = ("support Novels on Patreon", "adsbygoogle", "geraldsaw", "sainuu", "ludongbin")
+                paras = [p for p in paras if not any(k in p.lower() for k in skip_keys) and p.strip() not in ("New Chapter..", "New Chapter...", "New Chapter")]
                 content = "\n\n".join(paras).replace("&h.e.l.lip;", "…")
                 return url, title, content
             elif r.status_code == 404:
