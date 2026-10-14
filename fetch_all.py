@@ -32,7 +32,9 @@ def fetch(n, tries=3):
                 if not paras:
                     paras = [l.strip() for l in body.get_text("\n").splitlines() if l.strip()]
                 title = t.get_text(" ", strip=True) if t else f"Zhu Xian Chapter {n}"
-                return url, title, "\n\n".join(paras)
+                paras = [p for p in paras if "support Novels on Patreon" not in p and "adsbygoogle" not in p]
+                content = "\n\n".join(paras).replace("&h.e.l.lip;", "…")
+                return url, title, content
             elif r.status_code == 404:
                 return url, None, None
             else:
@@ -52,7 +54,7 @@ for n in range(2, 265):
         continue
     url, title, content = fetch(n)
     if content and content != "ERROR":
-        f.write_text(f"# {title}\n\nSource: {url}\n\n{content}\n", encoding="utf-8")
+        f.write_text(f"# {title}\n\n{content}\n", encoding="utf-8")
         saved += 1
         if saved % 10 == 0:
             log(f"progress: {saved} new saved, at chapter {n}/264")
