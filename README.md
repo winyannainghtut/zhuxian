@@ -23,6 +23,8 @@ Caomiao Village (မြက်ကျောင်းရွာ) တွင် တစ
 
 ```text
 d:\zhuxian\
+├── .github/workflows/      # GitHub Actions CI/CD (GitHub Pages auto-deploy)
+├── reader/                 # Static web reader (PWA, offline cache, mobile-friendly)
 ├── eng/                    # English source chapters (0001.md – 0264.md)
 ├── burmese/                # Burmese translated chapters (0001.md – 0264.md)
 ├── ref.md                  # Comprehensive translation reference bible
@@ -33,6 +35,8 @@ d:\zhuxian\
 └── .gitignore              # Git ignore rules
 ```
 
+- **`reader/`**: Markdown အခန်းများကို browser တွင် အလွယ်တကူ ဖတ်ရှုနိုင်သော Modern Web Reader (PWA / Offline cache အထောက်အပံ့ပါဝင်သည်)။
+- **`.github/workflows/deploy-pages.yml`**: Git push ပြုလုပ်လိုက်တိုင်း GitHub Pages သို့ Reader website ကို အလိုအလျောက် build လုပ်ပြီး deploy ပေးမည့် GitHub Actions Pipeline။
 - **`eng/`**: အင်္ဂလိပ် မူရင်း အခန်းများ (စုစုပေါင်း ၂၆၄ ခန်း)။ ဖိုင်အမည်များကို 4-digit zero-padded စနစ် (`0001.md` = Prologue, `0002.md` = Chapter 1 မှစ၍ `0264.md` အထိ) ဖြင့် သိမ်းဆည်းထားသည်။
 - **`burmese/`**: မြန်မာဘာသာပြန် အခန်းများ။ မူရင်း English ဖိုင်အမည်များနှင့် တစ်ထပ်တည်း တူညီစွာ (`burmese/0001.md`, `burmese/0002.md` စသဖြင့်) သိမ်းဆည်းမည်။
 - **`ref.md`**: ဘာသာပြန်ရာတွင် အခြေခံရမည့် တရားဝင် အကိုးအကားကျမ်း (ဝတ္ထုသမိုင်း၊ ဇာတ်ကောင် ၃၀ ကျော်၊ ဂိုဏ်းများ၊ ရတနာများ၊ နတ်သားရဲကြီးများ၊ ကျင့်စဉ်အဆင့်များနှင့် တရားဝင် မြန်မာပြန် ဝေါဟာရများ)။
@@ -63,6 +67,30 @@ d:\zhuxian\
    - ခေါင်းစဉ်: `# [မြန်မာခေါင်းစဉ်] ([English Title] / [Chinese Title])`
 6. **Chunking Rule (User Rule):**
    - အခန်းတစ်ခန်းလုံးကို အပြည့်အစုံ ဦးစွာ ပြန်ဆိုရမည်။ Token limit error ကြုံတွေ့မှသာ Part 1, Part 2 ခွဲ၍ ပြန်ဆိုရမည်။
+
+---
+
+## Web Reader (ဝဘ်ဆိုဒ်ဖြင့် ဖတ်ရှုခြင်း)
+
+ဤ repository တွင် အခန်းများကို သန့်ရှင်းသပ်ရပ်စွာ ဖတ်ရှုနိုင်သော Modern PWA Web Reader ပါဝင်ပါသည်။
+
+### ၁။ စက်တွင်း (Locally) ဖွင့်လှစ်ဖတ်ရှုရန်:
+```powershell
+powershell -ExecutionPolicy Bypass -File .\reader\run_reader.ps1
+```
+ပြီးနောက် Browser တွင် `http://localhost:8000/reader/` သို့ ဝင်ရောက်ဖတ်ရှုနိုင်ပါသည်။
+
+### ၂။ အခန်းသစ်များ ထည့်သွင်းပြီးပါက Index Update ပြုလုပ်ရန်:
+```powershell
+python .\reader\generate_manifest.py
+```
+
+---
+
+## GitHub Actions & GitHub Pages Deployment
+
+- Git ၏ `main` branch သို့ အခန်းသစ်များ push ပြုလုပ်လိုက်တိုင်း [`.github/workflows/deploy-pages.yml`](.github/workflows/deploy-pages.yml) သည် Reader website နှင့် စာမူများကို အလိုအလျောက် build ပြုလုပ်ပြီး **GitHub Pages** ပေါ်သို့ တိုက်ရိုက် deploy လုပ်ပေးသွားမည် ဖြစ်ပါသည်။
+- အသုံးပြုသူသည် GitHub Repository Settings > Pages တွင် Source ကို **GitHub Actions** အဖြစ် ရွေးချယ်ပေးထားရုံဖြင့် မည်သည့် server မျှ မလိုဘဲ အခမဲ့ အွန်လိုင်းမှ ဖတ်ရှုနိုင်မည် ဖြစ်ပါသည်။
 
 ---
 

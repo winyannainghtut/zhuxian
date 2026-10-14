@@ -1,0 +1,29 @@
+{
+  "name": "Zhu Xian Reader",
+  "short_name": "Zhu Xian",
+  "description": "Offline-capable chapter reader for Zhu Xian (Jade Dynasty / 诛仙) novel",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f4ef",
+  "theme_color": "#f4f4ef",
+  "icons": [
+    {
+      "src": "./icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/maskable.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": [
+    "books",
+    "entertainment"
+  ],
+  "prefer_related_applications": false
+}
