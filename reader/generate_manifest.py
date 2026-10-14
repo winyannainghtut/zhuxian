@@ -56,9 +56,10 @@ def build_manifest_payload() -> dict:
       if len(relative_to_source.parts) > 1:
         group = relative_to_source.parts[0]
       elif episode_number is not None:
-        start_num = ((episode_number - 1) // 100) * 100 + 1 if episode_number > 0 else 0
-        end_num = start_num + 99 if start_num > 0 else 100
+        start_num = max(1, ((episode_number - 1) // 100) * 100 + 1) if episode_number > 0 else 1
+        end_num = start_num + 99
         group = f"{start_num:04d}-{end_num:04d}"
+
       else:
         group = "Chapters"
 

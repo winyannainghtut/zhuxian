@@ -1,2 +1,4 @@
 fetch.log
 fetch_all.out
+scratch/
+*.txt

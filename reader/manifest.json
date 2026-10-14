@@ -1,17 +1,25 @@
 {
-  "generatedAt": "2026-10-14T05:51:54.332991+00:00",
-  "totalEntries": 264,
+  "generatedAt": "2026-10-14T06:56:10.598233+00:00",
+  "totalEntries": 261,
   "sources": [
     "English",
     "Burmese"
   ],
   "entries": [
     {
+      "id": "eng/0000.md",
+      "sourceLabel": "English",
+      "path": "eng/0000.md",
+      "group": "0001-0100",
+      "title": "Chapter 0 - Prologue",
+      "episode": 0
+    },
+    {
       "id": "eng/0001.md",
       "sourceLabel": "English",
       "path": "eng/0001.md",
       "group": "0001-0100",
-      "title": "Chapter 0 - Prologue",
+      "title": "Chapter 1 - Qing Yun",
       "episode": 1
     },
     {
@@ -19,7 +27,7 @@
       "sourceLabel": "English",
       "path": "eng/0002.md",
       "group": "0001-0100",
-      "title": "Chapter 1 - Qing Yun",
+      "title": "Chapter 2 - Confuse",
       "episode": 2
     },
     {
@@ -27,7 +35,7 @@
       "sourceLabel": "English",
       "path": "eng/0003.md",
       "group": "0001-0100",
-      "title": "Chapter 2 Confuse",
+      "title": "Chapter 3 - Wish",
       "episode": 3
     },
     {
@@ -35,7 +43,7 @@
       "sourceLabel": "English",
       "path": "eng/0004.md",
       "group": "0001-0100",
-      "title": "Chapter 3 Wish",
+      "title": "Chapter 4 - Surprise Change",
       "episode": 4
     },
     {
@@ -43,7 +51,7 @@
       "sourceLabel": "English",
       "path": "eng/0005.md",
       "group": "0001-0100",
-      "title": "Chapter 4 Surprise Change",
+      "title": "Chapter 5 - Adopt",
       "episode": 5
     },
     {
@@ -51,7 +59,7 @@
       "sourceLabel": "English",
       "path": "eng/0006.md",
       "group": "0001-0100",
-      "title": "Chapter 5 Adopt",
+      "title": "Chapter 6 - Meeting Master",
       "episode": 6
     },
     {
@@ -59,7 +67,7 @@
       "sourceLabel": "English",
       "path": "eng/0007.md",
       "group": "0001-0100",
-      "title": "Chapter 6 Meeting Master",
+      "title": "Chapter 7 - New Beginning",
       "episode": 7
     },
     {
@@ -67,7 +75,7 @@
       "sourceLabel": "English",
       "path": "eng/0008.md",
       "group": "0001-0100",
-      "title": "Chapter 7 New Beginning",
+      "title": "Chapter 8 - Teaching",
       "episode": 8
     },
     {
@@ -75,7 +83,7 @@
       "sourceLabel": "English",
       "path": "eng/0009.md",
       "group": "0001-0100",
-      "title": "Chapter 8 Teaching",
+      "title": "Chapter 9 - Dagos and Fuwa",
       "episode": 9
     },
     {
@@ -83,7 +91,7 @@
       "sourceLabel": "English",
       "path": "eng/0010.md",
       "group": "0001-0100",
-      "title": "Chapter 9 Dagos and Fuwa",
+      "title": "Chapter 10 - Dark Bamboo Grove",
       "episode": 10
     },
     {
@@ -91,7 +99,7 @@
       "sourceLabel": "English",
       "path": "eng/0011.md",
       "group": "0001-0100",
-      "title": "Chapter 10 Dark Bamboo Grove",
+      "title": "Chapter 11 - Weird Change",
       "episode": 11
     },
     {
@@ -99,7 +107,7 @@
       "sourceLabel": "English",
       "path": "eng/0012.md",
       "group": "0001-0100",
-      "title": "Chapter 11 Weird Change",
+      "title": "Chapter 12 - Reunion",
       "episode": 12
     },
     {
@@ -107,7 +115,7 @@
       "sourceLabel": "English",
       "path": "eng/0013.md",
       "group": "0001-0100",
-      "title": "Chapter 12 Reunion",
+      "title": "Chapter 13 - Prodigy",
       "episode": 13
     },
     {
@@ -115,7 +123,7 @@
       "sourceLabel": "English",
       "path": "eng/0014.md",
       "group": "0001-0100",
-      "title": "Chapter 13 Prodigy",
+      "title": "Chapter 14 - Divine Power",
       "episode": 14
     },
     {
@@ -123,7 +131,7 @@
       "sourceLabel": "English",
       "path": "eng/0015.md",
       "group": "0001-0100",
-      "title": "Chapter 14 Divine Power",
+      "title": "Chapter 15 - Secretly Teach",
       "episode": 15
     },
     {
@@ -131,7 +139,7 @@
       "sourceLabel": "English",
       "path": "eng/0016.md",
       "group": "0001-0100",
-      "title": "Chapter 15 Secretly Teach",
+      "title": "Chapter 16 - Navigate Object",
       "episode": 16
     },
     {
@@ -139,7 +147,7 @@
       "sourceLabel": "English",
       "path": "eng/0017.md",
       "group": "0001-0100",
-      "title": "Chapter 16 Navigate Object",
+      "title": "Chapter 17 - Attend",
       "episode": 17
     },
     {
@@ -147,7 +155,7 @@
       "sourceLabel": "English",
       "path": "eng/0018.md",
       "group": "0001-0100",
-      "title": "Chapter 17 Attend",
+      "title": "Chapter 18 - Come Across",
       "episode": 18
     },
     {
@@ -155,7 +163,7 @@
       "sourceLabel": "English",
       "path": "eng/0019.md",
       "group": "0001-0100",
-      "title": "Chapter 18 Come Across",
+      "title": "Chapter 19 - Draw Part",
       "episode": 19
     },
     {
@@ -163,7 +171,7 @@
       "sourceLabel": "English",
       "path": "eng/0020.md",
       "group": "0001-0100",
-      "title": "Chapter 19 Draw Part",
+      "title": "Chapter 20 - Trace of Evil",
       "episode": 20
     },
     {
@@ -171,7 +179,7 @@
       "sourceLabel": "English",
       "path": "eng/0021.md",
       "group": "0001-0100",
-      "title": "Chapter 20 Trace of Evil",
+      "title": "Chapter 21 - Dark Night",
       "episode": 21
     },
     {
@@ -179,7 +187,7 @@
       "sourceLabel": "English",
       "path": "eng/0022.md",
       "group": "0001-0100",
-      "title": "Chapter 21 Dark Night",
+      "title": "Chapter 22 - Contest",
       "episode": 22
     },
     {
@@ -187,7 +195,7 @@
       "sourceLabel": "English",
       "path": "eng/0023.md",
       "group": "0001-0100",
-      "title": "Chapter 22 Contest",
+      "title": "Chapter 23 - Divine Sword",
       "episode": 23
     },
     {
@@ -195,7 +203,7 @@
       "sourceLabel": "English",
       "path": "eng/0024.md",
       "group": "0001-0100",
-      "title": "Chapter 23 Divine Sword",
+      "title": "Chapter 24 - Unexpected",
       "episode": 24
     },
     {
@@ -203,7 +211,7 @@
       "sourceLabel": "English",
       "path": "eng/0025.md",
       "group": "0001-0100",
-      "title": "Chapter 24 Unexpected",
+      "title": "Chapter 25 - Luck",
       "episode": 25
     },
     {
@@ -211,7 +219,7 @@
       "sourceLabel": "English",
       "path": "eng/0026.md",
       "group": "0001-0100",
-      "title": "Chapter 25 Luck",
+      "title": "Chapter 26 - Self Esteem",
       "episode": 26
     },
     {
@@ -219,7 +227,7 @@
       "sourceLabel": "English",
       "path": "eng/0027.md",
       "group": "0001-0100",
-      "title": "Chapter 26 Self Esteem",
+      "title": "Chapter 27 - Persist",
       "episode": 27
     },
     {
@@ -227,7 +235,7 @@
       "sourceLabel": "English",
       "path": "eng/0028.md",
       "group": "0001-0100",
-      "title": "Chapter 27 Persist",
+      "title": "Chapter 28 - Top Four",
       "episode": 28
     },
     {
@@ -235,7 +243,7 @@
       "sourceLabel": "English",
       "path": "eng/0029.md",
       "group": "0001-0100",
-      "title": "Chapter 28 Top Four",
+      "title": "Chapter 29 - Supreme Art",
       "episode": 29
     },
     {
@@ -243,7 +251,7 @@
       "sourceLabel": "English",
       "path": "eng/0030.md",
       "group": "0001-0100",
-      "title": "Chapter 29 Supreme Art",
+      "title": "Chapter 30 - Suspect",
       "episode": 30
     },
     {
@@ -251,7 +259,7 @@
       "sourceLabel": "English",
       "path": "eng/0031.md",
       "group": "0001-0100",
-      "title": "Chapter 30 Suspect",
+      "title": "Chapter 31 - Path of Righteous",
       "episode": 31
     },
     {
@@ -259,7 +267,7 @@
       "sourceLabel": "English",
       "path": "eng/0032.md",
       "group": "0001-0100",
-      "title": "Chapter 31 Path of Righteous",
+      "title": "Chapter 32 - Leave Mountain",
       "episode": 32
     },
     {
@@ -267,7 +275,7 @@
       "sourceLabel": "English",
       "path": "eng/0033.md",
       "group": "0001-0100",
-      "title": "Chapter 32 Leave Mountain",
+      "title": "Chapter 33 - Ten Thousands Bats",
       "episode": 33
     },
     {
@@ -275,7 +283,7 @@
       "sourceLabel": "English",
       "path": "eng/0034.md",
       "group": "0001-0100",
-      "title": "Chapter 33 Ten Thousands Bats",
+      "title": "Chapter 34 - Ancient Cave",
       "episode": 34
     },
     {
@@ -283,7 +291,7 @@
       "sourceLabel": "English",
       "path": "eng/0035.md",
       "group": "0001-0100",
-      "title": "Chapter 34 Ancient Cave",
+      "title": "Chapter 35 - Heretics",
       "episode": 35
     },
     {
@@ -291,7 +299,7 @@
       "sourceLabel": "English",
       "path": "eng/0036.md",
       "group": "0001-0100",
-      "title": "Chapter 35 Heretics",
+      "title": "Chapter 36 - Strange Eye",
       "episode": 36
     },
     {
@@ -299,7 +307,7 @@
       "sourceLabel": "English",
       "path": "eng/0037.md",
       "group": "0001-0100",
-      "title": "Chapter 36 Strange Eye",
+      "title": "Chapter 37 - Forsaken Abyss",
       "episode": 37
     },
     {
@@ -307,7 +315,7 @@
       "sourceLabel": "English",
       "path": "eng/0038.md",
       "group": "0001-0100",
-      "title": "Chapter 37 Forsaken Abyss",
+      "title": "Chapter 38 - Deep Abyss",
       "episode": 38
     },
     {
@@ -315,7 +323,7 @@
       "sourceLabel": "English",
       "path": "eng/0039.md",
       "group": "0001-0100",
-      "title": "Chapter 38 Deep Abyss",
+      "title": "Chapter 39 - Meet Again",
       "episode": 39
     },
     {
@@ -323,7 +331,7 @@
       "sourceLabel": "English",
       "path": "eng/0040.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 2",
+      "title": "Chapter 40 - Abyssal Viper",
       "episode": 40
     },
     {
@@ -331,7 +339,7 @@
       "sourceLabel": "English",
       "path": "eng/0041.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 3",
+      "title": "Chapter 41 - Dead End",
       "episode": 41
     },
     {
@@ -339,7 +347,7 @@
       "sourceLabel": "English",
       "path": "eng/0042.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 4",
+      "title": "Chapter 42 - Blooddrop Cave",
       "episode": 42
     },
     {
@@ -347,7 +355,7 @@
       "sourceLabel": "English",
       "path": "eng/0043.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 5",
+      "title": "Chapter 43 - Heavenly Tome",
       "episode": 43
     },
     {
@@ -355,7 +363,7 @@
       "sourceLabel": "English",
       "path": "eng/0044.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 6",
+      "title": "Chapter 44 - Golden Bell",
       "episode": 44
     },
     {
@@ -363,7 +371,7 @@
       "sourceLabel": "English",
       "path": "eng/0045.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 7",
+      "title": "Chapter 45 - Sadness",
       "episode": 45
     },
     {
@@ -371,7 +379,7 @@
       "sourceLabel": "English",
       "path": "eng/0046.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 8",
+      "title": "Chapter 46 - Escape",
       "episode": 46
     },
     {
@@ -379,7 +387,7 @@
       "sourceLabel": "English",
       "path": "eng/0047.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 9",
+      "title": "Chapter 47 - Scholar",
       "episode": 47
     },
     {
@@ -387,7 +395,7 @@
       "sourceLabel": "English",
       "path": "eng/0048.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 10",
+      "title": "Chapter 48 - Small Town",
       "episode": 48
     },
     {
@@ -395,7 +403,7 @@
       "sourceLabel": "English",
       "path": "eng/0049.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 11",
+      "title": "Chapter 49 - Divination",
       "episode": 49
     },
     {
@@ -403,7 +411,7 @@
       "sourceLabel": "English",
       "path": "eng/0050.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 12",
+      "title": "Chapter 50 - Fox Spirit",
       "episode": 50
     },
     {
@@ -411,7 +419,7 @@
       "sourceLabel": "English",
       "path": "eng/0051.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 13",
+      "title": "Chapter 51 - Inferno Mirror",
       "episode": 51
     },
     {
@@ -419,7 +427,7 @@
       "sourceLabel": "English",
       "path": "eng/0052.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 14",
+      "title": "Chapter 52 - Dark Drake Cave",
       "episode": 52
     },
     {
@@ -427,7 +435,7 @@
       "sourceLabel": "English",
       "path": "eng/0053.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 15",
+      "title": "Chapter 53 - Fire Dragon",
       "episode": 53
     },
     {
@@ -435,7 +443,7 @@
       "sourceLabel": "English",
       "path": "eng/0054.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 16",
+      "title": "Chapter 54 - Strange Beast",
       "episode": 54
     },
     {
@@ -443,7 +451,7 @@
       "sourceLabel": "English",
       "path": "eng/0055.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 17",
+      "title": "Chapter 55 - Death of the Fox",
       "episode": 55
     },
     {
@@ -451,7 +459,7 @@
       "sourceLabel": "English",
       "path": "eng/0056.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 18",
+      "title": "Chapter 56 - Die Together",
       "episode": 56
     },
     {
@@ -459,7 +467,7 @@
       "sourceLabel": "English",
       "path": "eng/0057.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 19",
+      "title": "Chapter 57 - Chang He City",
       "episode": 57
     },
     {
@@ -467,7 +475,7 @@
       "sourceLabel": "English",
       "path": "eng/0058.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 20",
+      "title": "Chapter 58 - Set out to Sea",
       "episode": 58
     },
     {
@@ -475,7 +483,7 @@
       "sourceLabel": "English",
       "path": "eng/0059.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 21",
+      "title": "Chapter 59 - Broken Heart",
       "episode": 59
     },
     {
@@ -483,7 +491,7 @@
       "sourceLabel": "English",
       "path": "eng/0060.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 22",
+      "title": "Chapter 60 - Vicious Energy",
       "episode": 60
     },
     {
@@ -491,7 +499,7 @@
       "sourceLabel": "English",
       "path": "eng/0061.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 23",
+      "title": "Chapter 61 - Storm",
       "episode": 61
     },
     {
@@ -499,7 +507,7 @@
       "sourceLabel": "English",
       "path": "eng/0062.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 24",
+      "title": "Chapter 62 - Person of the Past",
       "episode": 62
     },
     {
@@ -507,7 +515,7 @@
       "sourceLabel": "English",
       "path": "eng/0063.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 25",
+      "title": "Chapter 63 - Demon Sect",
       "episode": 63
     },
     {
@@ -515,7 +523,7 @@
       "sourceLabel": "English",
       "path": "eng/0064.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 26",
+      "title": "Chapter 64 - Ghost King",
       "episode": 64
     },
     {
@@ -523,7 +531,7 @@
       "sourceLabel": "English",
       "path": "eng/0065.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 27",
+      "title": "Chapter 65 - Worries",
       "episode": 65
     },
     {
@@ -531,7 +539,7 @@
       "sourceLabel": "English",
       "path": "eng/0066.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 28",
+      "title": "Chapter 66 - The Past",
       "episode": 66
     },
     {
@@ -539,7 +547,7 @@
       "sourceLabel": "English",
       "path": "eng/0067.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 29",
+      "title": "Chapter 67 - Vampire Devil",
       "episode": 67
     },
     {
@@ -547,7 +555,7 @@
       "sourceLabel": "English",
       "path": "eng/0068.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 30",
+      "title": "Chapter 68 - Flame Spirit",
       "episode": 68
     },
     {
@@ -555,7 +563,7 @@
       "sourceLabel": "English",
       "path": "eng/0069.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 31",
+      "title": "Chapter 69 - Azure Dragon",
       "episode": 69
     },
     {
@@ -563,7 +571,7 @@
       "sourceLabel": "English",
       "path": "eng/0070.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 32",
+      "title": "Chapter 70 - Past Events",
       "episode": 70
     },
     {
@@ -571,7 +579,7 @@
       "sourceLabel": "English",
       "path": "eng/0071.md",
       "group": "0001-0100",
-      "title": "Vol 2 Chapter 33",
+      "title": "Chapter 71 - Ambush",
       "episode": 71
     },
     {
@@ -579,7 +587,7 @@
       "sourceLabel": "English",
       "path": "eng/0072.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 1",
+      "title": "Chapter 72 - Kui Niu",
       "episode": 72
     },
     {
@@ -587,7 +595,7 @@
       "sourceLabel": "English",
       "path": "eng/0073.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 2",
+      "title": "Chapter 73 - Impasse",
       "episode": 73
     },
     {
@@ -595,7 +603,7 @@
       "sourceLabel": "English",
       "path": "eng/0074.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 3",
+      "title": "Chapter 74 - YouJi",
       "episode": 74
     },
     {
@@ -603,7 +611,7 @@
       "sourceLabel": "English",
       "path": "eng/0075.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 4",
+      "title": "Chapter 75 - Conspiracy",
       "episode": 75
     },
     {
@@ -611,7 +619,7 @@
       "sourceLabel": "English",
       "path": "eng/0076.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 5",
+      "title": "Chapter 76 - Intention",
       "episode": 76
     },
     {
@@ -619,7 +627,7 @@
       "sourceLabel": "English",
       "path": "eng/0077.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 6",
+      "title": "Chapter 77 - At a Loss",
       "episode": 77
     },
     {
@@ -627,7 +635,7 @@
       "sourceLabel": "English",
       "path": "eng/0078.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 7",
+      "title": "Chapter 78 - Interrogation",
       "episode": 78
     },
     {
@@ -635,7 +643,7 @@
       "sourceLabel": "English",
       "path": "eng/0079.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 8",
+      "title": "Chapter 79 - Screen Wall",
       "episode": 79
     },
     {
@@ -643,7 +651,7 @@
       "sourceLabel": "English",
       "path": "eng/0080.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 9",
+      "title": "Chapter 80 - Scheme Within Scheme",
       "episode": 80
     },
     {
@@ -651,7 +659,7 @@
       "sourceLabel": "English",
       "path": "eng/0081.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 10",
+      "title": "Chapter 81 - Founders Ancestral Hall",
       "episode": 81
     },
     {
@@ -659,7 +667,7 @@
       "sourceLabel": "English",
       "path": "eng/0082.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 11",
+      "title": "Chapter 82 - Zhu Xian Ancient Sword",
       "episode": 82
     },
     {
@@ -667,7 +675,7 @@
       "sourceLabel": "English",
       "path": "eng/0083.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 12",
+      "title": "Chapter 83 - Past Sin",
       "episode": 83
     },
     {
@@ -675,7 +683,7 @@
       "sourceLabel": "English",
       "path": "eng/0084.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 13",
+      "title": "Chapter 84 - Blood Curse",
       "episode": 84
     },
     {
@@ -683,7 +691,7 @@
       "sourceLabel": "English",
       "path": "eng/0085.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 14",
+      "title": "Chapter 85 - Ten Years",
       "episode": 85
     },
     {
@@ -691,7 +699,7 @@
       "sourceLabel": "English",
       "path": "eng/0086.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 15",
+      "title": "Chapter 86 - Long Journey",
       "episode": 86
     },
     {
@@ -699,7 +707,7 @@
       "sourceLabel": "English",
       "path": "eng/0087.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 16",
+      "title": "Chapter 87 - Old Places",
       "episode": 87
     },
     {
@@ -707,7 +715,7 @@
       "sourceLabel": "English",
       "path": "eng/0088.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 17",
+      "title": "Chapter 88 - Big Wang Village",
       "episode": 88
     },
     {
@@ -715,7 +723,7 @@
       "sourceLabel": "English",
       "path": "eng/0089.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 18",
+      "title": "Chapter 89 - Fortune Telling",
       "episode": 89
     },
     {
@@ -723,7 +731,7 @@
       "sourceLabel": "English",
       "path": "eng/0090.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 19",
+      "title": "Chapter 90 - Dead Marsh",
       "episode": 90
     },
     {
@@ -731,7 +739,7 @@
       "sourceLabel": "English",
       "path": "eng/0091.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 20",
+      "title": "Chapter 91 - Wild Dog The Good Person",
       "episode": 91
     },
     {
@@ -739,7 +747,7 @@
       "sourceLabel": "English",
       "path": "eng/0092.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 21",
+      "title": "Chapter 92 - Mantis",
       "episode": 92
     },
     {
@@ -747,7 +755,7 @@
       "sourceLabel": "English",
       "path": "eng/0093.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 22",
+      "title": "Chapter 93 - Oriole",
       "episode": 93
     },
     {
@@ -755,7 +763,7 @@
       "sourceLabel": "English",
       "path": "eng/0094.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 23",
+      "title": "Chapter 94 - End of the Road",
       "episode": 94
     },
     {
@@ -763,7 +771,7 @@
       "sourceLabel": "English",
       "path": "eng/0095.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 24",
+      "title": "Chapter 95 - Miasma",
       "episode": 95
     },
     {
@@ -771,7 +779,7 @@
       "sourceLabel": "English",
       "path": "eng/0096.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 25",
+      "title": "Chapter 96 - Mysterious Flower",
       "episode": 96
     },
     {
@@ -779,7 +787,7 @@
       "sourceLabel": "English",
       "path": "eng/0097.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 26",
+      "title": "Chapter 97 - Night Talk",
       "episode": 97
     },
     {
@@ -787,7 +795,7 @@
       "sourceLabel": "English",
       "path": "eng/0098.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 27",
+      "title": "Chapter 98 - Past Affections",
       "episode": 98
     },
     {
@@ -795,7 +803,7 @@
       "sourceLabel": "English",
       "path": "eng/0099.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 28",
+      "title": "Chapter 99 - Unusual Sign",
       "episode": 99
     },
     {
@@ -803,7 +811,7 @@
       "sourceLabel": "English",
       "path": "eng/0100.md",
       "group": "0001-0100",
-      "title": "Vol 3 Chapter 29",
+      "title": "Chapter 100 - Gigantic Tree",
       "episode": 100
     },
     {
@@ -811,7 +819,7 @@
       "sourceLabel": "English",
       "path": "eng/0101.md",
       "group": "0101-0200",
-      "title": "Vol 3 Chapter 30",
+      "title": "Chapter 101 - Old Friends Sentiments",
       "episode": 101
     },
     {
@@ -819,7 +827,7 @@
       "sourceLabel": "English",
       "path": "eng/0102.md",
       "group": "0101-0200",
-      "title": "Vol 3 Chapter 31",
+      "title": "Chapter 102 - Black Snake",
       "episode": 102
     },
     {
@@ -827,7 +835,7 @@
       "sourceLabel": "English",
       "path": "eng/0103.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 1",
+      "title": "Chapter 103 - Yellow Bird",
       "episode": 103
     },
     {
@@ -835,7 +843,7 @@
       "sourceLabel": "English",
       "path": "eng/0104.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 2",
+      "title": "Chapter 104 - Xiao Hui",
       "episode": 104
     },
     {
@@ -843,7 +851,7 @@
       "sourceLabel": "English",
       "path": "eng/0105.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 3",
+      "title": "Chapter 105 - Fish Monster",
       "episode": 105
     },
     {
@@ -851,7 +859,7 @@
       "sourceLabel": "English",
       "path": "eng/0106.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 4",
+      "title": "Chapter 106 - Question",
       "episode": 106
     },
     {
@@ -859,7 +867,7 @@
       "sourceLabel": "English",
       "path": "eng/0107.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 5",
+      "title": "Chapter 107 - Sword Dance",
       "episode": 107
     },
     {
@@ -867,7 +875,7 @@
       "sourceLabel": "English",
       "path": "eng/0108.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 6",
+      "title": "Chapter 108 - Ancient Temple",
       "episode": 108
     },
     {
@@ -875,7 +883,7 @@
       "sourceLabel": "English",
       "path": "eng/0109.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 7",
+      "title": "Chapter 109 - Devil Formation",
       "episode": 109
     },
     {
@@ -883,7 +891,7 @@
       "sourceLabel": "English",
       "path": "eng/0110.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 8",
+      "title": "Chapter 110 - Sneaking",
       "episode": 110
     },
     {
@@ -891,7 +899,7 @@
       "sourceLabel": "English",
       "path": "eng/0111.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 9",
+      "title": "Chapter 111 - Inferno Altar",
       "episode": 111
     },
     {
@@ -899,7 +907,7 @@
       "sourceLabel": "English",
       "path": "eng/0112.md",
       "group": "0101-0200",
-      "title": "Vol 4 Chapter 10",
+      "title": "Chapter 112 - a.s.sa.s.sination",
       "episode": 112
     },
     {
@@ -907,7 +915,7 @@
       "sourceLabel": "English",
       "path": "eng/0113.md",
       "group": "0101-0200",
-      "title": "Chapter 110",
+      "title": "Chapter 113 - Strange Beast",
       "episode": 113
     },
     {
@@ -915,7 +923,7 @@
       "sourceLabel": "English",
       "path": "eng/0114.md",
       "group": "0101-0200",
-      "title": "Chapter 111",
+      "title": "Chapter 114 - Celestial Fox",
       "episode": 114
     },
     {
@@ -923,7 +931,7 @@
       "sourceLabel": "English",
       "path": "eng/0115.md",
       "group": "0101-0200",
-      "title": "Chapter 112",
+      "title": "Chapter 115 - White Fox",
       "episode": 115
     },
     {
@@ -931,7 +939,7 @@
       "sourceLabel": "English",
       "path": "eng/0116.md",
       "group": "0101-0200",
-      "title": "Chapter 113",
+      "title": "Chapter 116 - Escape",
       "episode": 116
     },
     {
@@ -939,7 +947,7 @@
       "sourceLabel": "English",
       "path": "eng/0117.md",
       "group": "0101-0200",
-      "title": "Chapter 114 - Celestial Fox",
+      "title": "Chapter 117 - Hope",
       "episode": 117
     },
     {
@@ -947,7 +955,7 @@
       "sourceLabel": "English",
       "path": "eng/0118.md",
       "group": "0101-0200",
-      "title": "Chapter 115 - White Fox",
+      "title": "Chapter 118 - TianShui Stockade",
       "episode": 118
     },
     {
@@ -955,7 +963,7 @@
       "sourceLabel": "English",
       "path": "eng/0119.md",
       "group": "0101-0200",
-      "title": "Chapter 116 - Escape",
+      "title": "Chapter 119 - Cold Night",
       "episode": 119
     },
     {
@@ -963,7 +971,7 @@
       "sourceLabel": "English",
       "path": "eng/0120.md",
       "group": "0101-0200",
-      "title": "Chapter 117 - Hope",
+      "title": "Chapter 120 - Deep Scar",
       "episode": 120
     },
     {
@@ -971,7 +979,7 @@
       "sourceLabel": "English",
       "path": "eng/0121.md",
       "group": "0101-0200",
-      "title": "Chapter 118 - TianShui Stockade",
+      "title": "Chapter 121 - Tracking",
       "episode": 121
     },
     {
@@ -979,7 +987,7 @@
       "sourceLabel": "English",
       "path": "eng/0122.md",
       "group": "0101-0200",
-      "title": "Chapter 119 - Cold Night",
+      "title": "Chapter 122 - Seven Mile Cave",
       "episode": 122
     },
     {
@@ -987,7 +995,7 @@
       "sourceLabel": "English",
       "path": "eng/0123.md",
       "group": "0101-0200",
-      "title": "Chapter 120 - Deep Scar",
+      "title": "Chapter 123 - Strong Liquor",
       "episode": 123
     },
     {
@@ -995,7 +1003,7 @@
       "sourceLabel": "English",
       "path": "eng/0124.md",
       "group": "0101-0200",
-      "title": "Chapter 121 - Tracking",
+      "title": "Chapter 124 - The Altar",
       "episode": 124
     },
     {
@@ -1003,7 +1011,7 @@
       "sourceLabel": "English",
       "path": "eng/0125.md",
       "group": "0101-0200",
-      "title": "Chapter 122 - Seven Mile Cave",
+      "title": "Chapter 125 - Li Tribe",
       "episode": 125
     },
     {
@@ -1011,7 +1019,7 @@
       "sourceLabel": "English",
       "path": "eng/0126.md",
       "group": "0101-0200",
-      "title": "Chapter 123 - Strong Liquor",
+      "title": "Chapter 126 - Black Fire",
       "episode": 126
     },
     {
@@ -1019,7 +1027,7 @@
       "sourceLabel": "English",
       "path": "eng/0127.md",
       "group": "0101-0200",
-      "title": "Chapter 124 - The Altar",
+      "title": "Chapter 127 - Broken-hearted",
       "episode": 127
     },
     {
@@ -1027,7 +1035,7 @@
       "sourceLabel": "English",
       "path": "eng/0128.md",
       "group": "0101-0200",
-      "title": "Chapter 125 - Li Tribe",
+      "title": "Chapter 128 - Evil Shaman",
       "episode": 128
     },
     {
@@ -1035,7 +1043,7 @@
       "sourceLabel": "English",
       "path": "eng/0129.md",
       "group": "0101-0200",
-      "title": "Chapter 126 - Black Fire",
+      "title": "Chapter 129 - Intention",
       "episode": 129
     },
     {
@@ -1043,7 +1051,7 @@
       "sourceLabel": "English",
       "path": "eng/0130.md",
       "group": "0101-0200",
-      "title": "Chapter 127 - Broken-hearted",
+      "title": "Chapter 130 - Pursue",
       "episode": 130
     },
     {
@@ -1051,7 +1059,7 @@
       "sourceLabel": "English",
       "path": "eng/0131.md",
       "group": "0101-0200",
-      "title": "Chapter 128 - Evil Shaman",
+      "title": "Chapter 131 - Legend",
       "episode": 131
     },
     {
@@ -1059,7 +1067,7 @@
       "sourceLabel": "English",
       "path": "eng/0132.md",
       "group": "0101-0200",
-      "title": "Chapter 129 - Intention",
+      "title": "Chapter 132 - Eerie Forest",
       "episode": 132
     },
     {
@@ -1067,7 +1075,7 @@
       "sourceLabel": "English",
       "path": "eng/0133.md",
       "group": "0101-0200",
-      "title": "Chapter 130 - Pursue",
+      "title": "Chapter 133 - Farewell",
       "episode": 133
     },
     {
@@ -1075,7 +1083,7 @@
       "sourceLabel": "English",
       "path": "eng/0134.md",
       "group": "0101-0200",
-      "title": "Chapter 131 - Legend",
+      "title": "Chapter 134 - Fierce Spirit",
       "episode": 134
     },
     {
@@ -1083,7 +1091,7 @@
       "sourceLabel": "English",
       "path": "eng/0135.md",
       "group": "0101-0200",
-      "title": "Chapter 132 - Eerie Forest",
+      "title": "Chapter 135 - Revived",
       "episode": 135
     },
     {
@@ -1091,7 +1099,7 @@
       "sourceLabel": "English",
       "path": "eng/0136.md",
       "group": "0101-0200",
-      "title": "Chapter 133 - Farewell",
+      "title": "Chapter 136 - Murderous Air",
       "episode": 136
     },
     {
@@ -1099,7 +1107,7 @@
       "sourceLabel": "English",
       "path": "eng/0137.md",
       "group": "0101-0200",
-      "title": "Chapter 134 - Fierce Spirit",
+      "title": "Chapter 137 - Unusual Skill",
       "episode": 137
     },
     {
@@ -1107,7 +1115,7 @@
       "sourceLabel": "English",
       "path": "eng/0138.md",
       "group": "0101-0200",
-      "title": "Chapter 135 - Revived",
+      "title": "Chapter 138 - Spirit Calling Bait",
       "episode": 138
     },
     {
@@ -1115,7 +1123,7 @@
       "sourceLabel": "English",
       "path": "eng/0139.md",
       "group": "0101-0200",
-      "title": "Chapter 136 - Murderous Air",
+      "title": "Chapter 139 - Broken-hearted Man",
       "episode": 139
     },
     {
@@ -1123,7 +1131,7 @@
       "sourceLabel": "English",
       "path": "eng/0140.md",
       "group": "0101-0200",
-      "title": "Chapter 137 - Unusual Skill",
+      "title": "Chapter 140 - Decadent",
       "episode": 140
     },
     {
@@ -1131,7 +1139,7 @@
       "sourceLabel": "English",
       "path": "eng/0141.md",
       "group": "0101-0200",
-      "title": "Chapter 138 - Spirit Calling Bait",
+      "title": "Chapter 141 - Chance Encounter",
       "episode": 141
     },
     {
@@ -1139,7 +1147,7 @@
       "sourceLabel": "English",
       "path": "eng/0142.md",
       "group": "0101-0200",
-      "title": "Chapter 139 - Broken-hearted Man",
+      "title": "Chapter 142 - Murderous Intentions",
       "episode": 142
     },
     {
@@ -1147,7 +1155,7 @@
       "sourceLabel": "English",
       "path": "eng/0143.md",
       "group": "0101-0200",
-      "title": "Chapter 140 - Decadent",
+      "title": "Chapter 143 - At a loss",
       "episode": 143
     },
     {
@@ -1155,7 +1163,7 @@
       "sourceLabel": "English",
       "path": "eng/0144.md",
       "group": "0101-0200",
-      "title": "Chapter 141 - Chance Encounter",
+      "title": "Chapter 144 - Predestined Fate",
       "episode": 144
     },
     {
@@ -1163,7 +1171,7 @@
       "sourceLabel": "English",
       "path": "eng/0145.md",
       "group": "0101-0200",
-      "title": "Chapter 142 - Murderous Intentions",
+      "title": "Chapter 145 - Reluctant",
       "episode": 145
     },
     {
@@ -1171,7 +1179,7 @@
       "sourceLabel": "English",
       "path": "eng/0146.md",
       "group": "0101-0200",
-      "title": "Chapter 143 - At a loss",
+      "title": "Chapter 146 - Chance Encounters",
       "episode": 146
     },
     {
@@ -1179,7 +1187,7 @@
       "sourceLabel": "English",
       "path": "eng/0147.md",
       "group": "0101-0200",
-      "title": "Chapter 144 - Predestined Fate",
+      "title": "Chapter 147 - To Meet",
       "episode": 147
     },
     {
@@ -1187,7 +1195,7 @@
       "sourceLabel": "English",
       "path": "eng/0148.md",
       "group": "0101-0200",
-      "title": "Chapter 145 - Reluctant",
+      "title": "Chapter 148 - Venomous Scheme",
       "episode": 148
     },
     {
@@ -1195,7 +1203,7 @@
       "sourceLabel": "English",
       "path": "eng/0149.md",
       "group": "0101-0200",
-      "title": "Chapter 146 - Chance Encounters",
+      "title": "Chapter 149 - Alliance",
       "episode": 149
     },
     {
@@ -1203,7 +1211,7 @@
       "sourceLabel": "English",
       "path": "eng/0150.md",
       "group": "0101-0200",
-      "title": "Chapter 147 - To Meet",
+      "title": "Chapter 150 - Internal Conflict",
       "episode": 150
     },
     {
@@ -1211,7 +1219,7 @@
       "sourceLabel": "English",
       "path": "eng/0151.md",
       "group": "0101-0200",
-      "title": "Chapter 148 - Venomous Scheme",
+      "title": "Chapter 151 - Hypertoxic",
       "episode": 151
     },
     {
@@ -1219,7 +1227,7 @@
       "sourceLabel": "English",
       "path": "eng/0152.md",
       "group": "0101-0200",
-      "title": "Chapter 149 - Alliance",
+      "title": "Chapter 152 - Insane",
       "episode": 152
     },
     {
@@ -1227,7 +1235,7 @@
       "sourceLabel": "English",
       "path": "eng/0153.md",
       "group": "0101-0200",
-      "title": "Chapter 150 - Internal Conflict",
+      "title": "Chapter 153 - Purgatory",
       "episode": 153
     },
     {
@@ -1235,7 +1243,7 @@
       "sourceLabel": "English",
       "path": "eng/0154.md",
       "group": "0101-0200",
-      "title": "Chapter 151 - Hypertoxic",
+      "title": "Chapter 154 - Unfilial",
       "episode": 154
     },
     {
@@ -1243,7 +1251,7 @@
       "sourceLabel": "English",
       "path": "eng/0155.md",
       "group": "0101-0200",
-      "title": "Chapter 152 - Insane",
+      "title": "Chapter 155 - Night Drinks",
       "episode": 155
     },
     {
@@ -1251,7 +1259,7 @@
       "sourceLabel": "English",
       "path": "eng/0156.md",
       "group": "0101-0200",
-      "title": "Chapter 153 - Purgatory",
+      "title": "Chapter 156 - Former Residence",
       "episode": 156
     },
     {
@@ -1259,7 +1267,7 @@
       "sourceLabel": "English",
       "path": "eng/0157.md",
       "group": "0101-0200",
-      "title": "Chapter 154 - Unfilial",
+      "title": "Chapter 157 - Paying Respect",
       "episode": 157
     },
     {
@@ -1267,7 +1275,7 @@
       "sourceLabel": "English",
       "path": "eng/0158.md",
       "group": "0101-0200",
-      "title": "Chapter 155 - Night Drinks",
+      "title": "Chapter 158 - Night Exploration",
       "episode": 158
     },
     {
@@ -1275,7 +1283,7 @@
       "sourceLabel": "English",
       "path": "eng/0159.md",
       "group": "0101-0200",
-      "title": "Chapter 156 - Former Residence",
+      "title": "Chapter 159 - The Way of Ghost",
       "episode": 159
     },
     {
@@ -1283,7 +1291,7 @@
       "sourceLabel": "English",
       "path": "eng/0160.md",
       "group": "0101-0200",
-      "title": "Chapter 157 - Paying Respect",
+      "title": "Chapter 160 - Secret",
       "episode": 160
     },
     {
@@ -1291,7 +1299,7 @@
       "sourceLabel": "English",
       "path": "eng/0161.md",
       "group": "0101-0200",
-      "title": "Chapter 158 - Night Exploration",
+      "title": "Chapter 161 - Struggle",
       "episode": 161
     },
     {
@@ -1299,7 +1307,7 @@
       "sourceLabel": "English",
       "path": "eng/0162.md",
       "group": "0101-0200",
-      "title": "Chapter 159 - The Way of Ghost",
+      "title": "Chapter 162 - Lonely",
       "episode": 162
     },
     {
@@ -1307,7 +1315,7 @@
       "sourceLabel": "English",
       "path": "eng/0163.md",
       "group": "0101-0200",
-      "title": "Chapter 160 - Secret",
+      "title": "Chapter 163 - Concealed Person",
       "episode": 163
     },
     {
@@ -1315,7 +1323,7 @@
       "sourceLabel": "English",
       "path": "eng/0164.md",
       "group": "0101-0200",
-      "title": "Chapter 161 - Struggle",
+      "title": "Chapter 164 - Plotting",
       "episode": 164
     },
     {
@@ -1323,7 +1331,7 @@
       "sourceLabel": "English",
       "path": "eng/0165.md",
       "group": "0101-0200",
-      "title": "Chapter 162 - Lonely",
+      "title": "Chapter 165 - Illusory Moon",
       "episode": 165
     },
     {
@@ -1331,7 +1339,7 @@
       "sourceLabel": "English",
       "path": "eng/0166.md",
       "group": "0101-0200",
-      "title": "Chapter 163 - Concealed Person",
+      "title": "Chapter 166 - Intense Fight",
       "episode": 166
     },
     {
@@ -1339,7 +1347,7 @@
       "sourceLabel": "English",
       "path": "eng/0167.md",
       "group": "0101-0200",
-      "title": "Chapter 164 - Plotting",
+      "title": "Chapter 167 - Forbidden Place",
       "episode": 167
     },
     {
@@ -1347,7 +1355,7 @@
       "sourceLabel": "English",
       "path": "eng/0168.md",
       "group": "0101-0200",
-      "title": "Chapter 165 - Illusory Moon",
+      "title": "Chapter 168 - Bonds of the world",
       "episode": 168
     },
     {
@@ -1355,7 +1363,7 @@
       "sourceLabel": "English",
       "path": "eng/0169.md",
       "group": "0101-0200",
-      "title": "Chapter 166 - Intense Fight",
+      "title": "Chapter 169 - Red Flame",
       "episode": 169
     },
     {
@@ -1363,7 +1371,7 @@
       "sourceLabel": "English",
       "path": "eng/0170.md",
       "group": "0101-0200",
-      "title": "Chapter 167 - Forbidden Place",
+      "title": "Chapter 170 - Decisive Battle",
       "episode": 170
     },
     {
@@ -1371,7 +1379,7 @@
       "sourceLabel": "English",
       "path": "eng/0171.md",
       "group": "0101-0200",
-      "title": "Chapter 168 - Bonds of the world",
+      "title": "Chapter 171 - Witchcraft",
       "episode": 171
     },
     {
@@ -1379,7 +1387,7 @@
       "sourceLabel": "English",
       "path": "eng/0172.md",
       "group": "0101-0200",
-      "title": "Chapter 169 - Red Flame",
+      "title": "Chapter 172",
       "episode": 172
     },
     {
@@ -1387,7 +1395,7 @@
       "sourceLabel": "English",
       "path": "eng/0173.md",
       "group": "0101-0200",
-      "title": "Chapter 170 - Decisive Battle",
+      "title": "Chapter 173",
       "episode": 173
     },
     {
@@ -1395,7 +1403,7 @@
       "sourceLabel": "English",
       "path": "eng/0174.md",
       "group": "0101-0200",
-      "title": "Chapter 171 - Witchcraft",
+      "title": "Chapter 174",
       "episode": 174
     },
     {
@@ -1403,7 +1411,7 @@
       "sourceLabel": "English",
       "path": "eng/0175.md",
       "group": "0101-0200",
-      "title": "Chapter 172",
+      "title": "Chapter 175",
       "episode": 175
     },
     {
@@ -1411,7 +1419,7 @@
       "sourceLabel": "English",
       "path": "eng/0176.md",
       "group": "0101-0200",
-      "title": "Chapter 173",
+      "title": "Chapter 176",
       "episode": 176
     },
     {
@@ -1419,7 +1427,7 @@
       "sourceLabel": "English",
       "path": "eng/0177.md",
       "group": "0101-0200",
-      "title": "Chapter 174",
+      "title": "Chapter 177",
       "episode": 177
     },
     {
@@ -1427,7 +1435,7 @@
       "sourceLabel": "English",
       "path": "eng/0178.md",
       "group": "0101-0200",
-      "title": "Chapter 175",
+      "title": "Chapter 178",
       "episode": 178
     },
     {
@@ -1435,7 +1443,7 @@
       "sourceLabel": "English",
       "path": "eng/0179.md",
       "group": "0101-0200",
-      "title": "Chapter 176",
+      "title": "Chapter 179",
       "episode": 179
     },
     {
@@ -1443,7 +1451,7 @@
       "sourceLabel": "English",
       "path": "eng/0180.md",
       "group": "0101-0200",
-      "title": "Chapter 177",
+      "title": "Chapter 180",
       "episode": 180
     },
     {
@@ -1451,7 +1459,7 @@
       "sourceLabel": "English",
       "path": "eng/0181.md",
       "group": "0101-0200",
-      "title": "Chapter 178",
+      "title": "Chapter 181",
       "episode": 181
     },
     {
@@ -1459,7 +1467,7 @@
       "sourceLabel": "English",
       "path": "eng/0182.md",
       "group": "0101-0200",
-      "title": "Chapter 179",
+      "title": "Chapter 182",
       "episode": 182
     },
     {
@@ -1467,7 +1475,7 @@
       "sourceLabel": "English",
       "path": "eng/0183.md",
       "group": "0101-0200",
-      "title": "Chapter 180",
+      "title": "Chapter 183 - Haze",
       "episode": 183
     },
     {
@@ -1475,7 +1483,7 @@
       "sourceLabel": "English",
       "path": "eng/0184.md",
       "group": "0101-0200",
-      "title": "Chapter 181",
+      "title": "Chapter 184 - Wordless Jade Wall",
       "episode": 184
     },
     {
@@ -1483,7 +1491,7 @@
       "sourceLabel": "English",
       "path": "eng/0185.md",
       "group": "0101-0200",
-      "title": "Chapter 182",
+      "title": "Chapter 185",
       "episode": 185
     },
     {
@@ -1491,7 +1499,7 @@
       "sourceLabel": "English",
       "path": "eng/0186.md",
       "group": "0101-0200",
-      "title": "Chapter 184",
+      "title": "Chapter 186",
       "episode": 186
     },
     {
@@ -1499,7 +1507,7 @@
       "sourceLabel": "English",
       "path": "eng/0187.md",
       "group": "0101-0200",
-      "title": "Chapter 183",
+      "title": "Chapter 187",
       "episode": 187
     },
     {
@@ -1507,7 +1515,7 @@
       "sourceLabel": "English",
       "path": "eng/0188.md",
       "group": "0101-0200",
-      "title": "Chapter 185",
+      "title": "Chapter 188",
       "episode": 188
     },
     {
@@ -1515,7 +1523,7 @@
       "sourceLabel": "English",
       "path": "eng/0189.md",
       "group": "0101-0200",
-      "title": "Chapter 186",
+      "title": "Chapter 189",
       "episode": 189
     },
     {
@@ -1523,7 +1531,7 @@
       "sourceLabel": "English",
       "path": "eng/0190.md",
       "group": "0101-0200",
-      "title": "Chapter 187",
+      "title": "Chapter 190",
       "episode": 190
     },
     {
@@ -1531,7 +1539,7 @@
       "sourceLabel": "English",
       "path": "eng/0191.md",
       "group": "0101-0200",
-      "title": "Chapter 188",
+      "title": "Chapter 191",
       "episode": 191
     },
     {
@@ -1539,7 +1547,7 @@
       "sourceLabel": "English",
       "path": "eng/0192.md",
       "group": "0101-0200",
-      "title": "Chapter 189",
+      "title": "Chapter 192",
       "episode": 192
     },
     {
@@ -1547,7 +1555,7 @@
       "sourceLabel": "English",
       "path": "eng/0193.md",
       "group": "0101-0200",
-      "title": "Chapter 190",
+      "title": "Chapter 193",
       "episode": 193
     },
     {
@@ -1555,7 +1563,7 @@
       "sourceLabel": "English",
       "path": "eng/0194.md",
       "group": "0101-0200",
-      "title": "Chapter 191",
+      "title": "Chapter 194",
       "episode": 194
     },
     {
@@ -1563,7 +1571,7 @@
       "sourceLabel": "English",
       "path": "eng/0195.md",
       "group": "0101-0200",
-      "title": "Chapter 192",
+      "title": "Chapter 195",
       "episode": 195
     },
     {
@@ -1571,7 +1579,7 @@
       "sourceLabel": "English",
       "path": "eng/0196.md",
       "group": "0101-0200",
-      "title": "Chapter 193",
+      "title": "Chapter 196",
       "episode": 196
     },
     {
@@ -1579,7 +1587,7 @@
       "sourceLabel": "English",
       "path": "eng/0197.md",
       "group": "0101-0200",
-      "title": "Chapter 194",
+      "title": "Chapter 197",
       "episode": 197
     },
     {
@@ -1587,7 +1595,7 @@
       "sourceLabel": "English",
       "path": "eng/0198.md",
       "group": "0101-0200",
-      "title": "Chapter 195",
+      "title": "Chapter 198",
       "episode": 198
     },
     {
@@ -1595,7 +1603,7 @@
       "sourceLabel": "English",
       "path": "eng/0199.md",
       "group": "0101-0200",
-      "title": "Chapter 196",
+      "title": "Chapter 199",
       "episode": 199
     },
     {
@@ -1603,7 +1611,7 @@
       "sourceLabel": "English",
       "path": "eng/0200.md",
       "group": "0101-0200",
-      "title": "Chapter 197",
+      "title": "Chapter 200",
       "episode": 200
     },
     {
@@ -1611,7 +1619,7 @@
       "sourceLabel": "English",
       "path": "eng/0201.md",
       "group": "0201-0300",
-      "title": "Chapter 198",
+      "title": "Chapter 201",
       "episode": 201
     },
     {
@@ -1619,7 +1627,7 @@
       "sourceLabel": "English",
       "path": "eng/0202.md",
       "group": "0201-0300",
-      "title": "Chapter 199",
+      "title": "Chapter 202 - Heartache",
       "episode": 202
     },
     {
@@ -1627,7 +1635,7 @@
       "sourceLabel": "English",
       "path": "eng/0203.md",
       "group": "0201-0300",
-      "title": "Chapter 200",
+      "title": "Chapter 203",
       "episode": 203
     },
     {
@@ -1635,7 +1643,7 @@
       "sourceLabel": "English",
       "path": "eng/0204.md",
       "group": "0201-0300",
-      "title": "Chapter 201",
+      "title": "Chapter 204",
       "episode": 204
     },
     {
@@ -1643,7 +1651,7 @@
       "sourceLabel": "English",
       "path": "eng/0205.md",
       "group": "0201-0300",
-      "title": "Chapter 202 - Heartache",
+      "title": "Chapter 205",
       "episode": 205
     },
     {
@@ -1651,7 +1659,7 @@
       "sourceLabel": "English",
       "path": "eng/0206.md",
       "group": "0201-0300",
-      "title": "Chapter 203",
+      "title": "Chapter 206",
       "episode": 206
     },
     {
@@ -1659,7 +1667,7 @@
       "sourceLabel": "English",
       "path": "eng/0207.md",
       "group": "0201-0300",
-      "title": "Chapter 204",
+      "title": "Chapter 207",
       "episode": 207
     },
     {
@@ -1667,7 +1675,7 @@
       "sourceLabel": "English",
       "path": "eng/0208.md",
       "group": "0201-0300",
-      "title": "Chapter 205",
+      "title": "Chapter 208 - Broken Sword",
       "episode": 208
     },
     {
@@ -1675,7 +1683,7 @@
       "sourceLabel": "English",
       "path": "eng/0209.md",
       "group": "0201-0300",
-      "title": "Chapter 206",
+      "title": "Chapter 209 - Scheming",
       "episode": 209
     },
     {
@@ -1683,7 +1691,7 @@
       "sourceLabel": "English",
       "path": "eng/0210.md",
       "group": "0201-0300",
-      "title": "Chapter 207",
+      "title": "Chapter 210 - Devil Beast",
       "episode": 210
     },
     {
@@ -1691,7 +1699,7 @@
       "sourceLabel": "English",
       "path": "eng/0211.md",
       "group": "0201-0300",
-      "title": "Chapter 208",
+      "title": "Chapter 211",
       "episode": 211
     },
     {
@@ -1699,7 +1707,7 @@
       "sourceLabel": "English",
       "path": "eng/0212.md",
       "group": "0201-0300",
-      "title": "Vol 4 Chapter 208",
+      "title": "Chapter 212",
       "episode": 212
     },
     {
@@ -1707,7 +1715,7 @@
       "sourceLabel": "English",
       "path": "eng/0213.md",
       "group": "0201-0300",
-      "title": "Chapter 209 - Scheming",
+      "title": "Chapter 213",
       "episode": 213
     },
     {
@@ -1715,7 +1723,7 @@
       "sourceLabel": "English",
       "path": "eng/0214.md",
       "group": "0201-0300",
-      "title": "Chapter 210 - Devil Beast",
+      "title": "Chapter 214",
       "episode": 214
     },
     {
@@ -1723,7 +1731,7 @@
       "sourceLabel": "English",
       "path": "eng/0215.md",
       "group": "0201-0300",
-      "title": "Chapter 211",
+      "title": "Chapter 215 - Embrace",
       "episode": 215
     },
     {
@@ -1731,7 +1739,7 @@
       "sourceLabel": "English",
       "path": "eng/0216.md",
       "group": "0201-0300",
-      "title": "Chapter 212",
+      "title": "Chapter 216 - Parting",
       "episode": 216
     },
     {
@@ -1739,7 +1747,7 @@
       "sourceLabel": "English",
       "path": "eng/0217.md",
       "group": "0201-0300",
-      "title": "Chapter 213",
+      "title": "Chapter 217",
       "episode": 217
     },
     {
@@ -1747,7 +1755,7 @@
       "sourceLabel": "English",
       "path": "eng/0218.md",
       "group": "0201-0300",
-      "title": "Chapter 214",
+      "title": "Chapter 218 - Secret",
       "episode": 218
     },
     {
@@ -1755,7 +1763,7 @@
       "sourceLabel": "English",
       "path": "eng/0219.md",
       "group": "0201-0300",
-      "title": "Chapter 216",
+      "title": "Chapter 219",
       "episode": 219
     },
     {
@@ -1763,7 +1771,7 @@
       "sourceLabel": "English",
       "path": "eng/0220.md",
       "group": "0201-0300",
-      "title": "Chapter 215",
+      "title": "Chapter 220",
       "episode": 220
     },
     {
@@ -1771,7 +1779,7 @@
       "sourceLabel": "English",
       "path": "eng/0221.md",
       "group": "0201-0300",
-      "title": "Chapter 217",
+      "title": "Chapter 221",
       "episode": 221
     },
     {
@@ -1779,7 +1787,7 @@
       "sourceLabel": "English",
       "path": "eng/0222.md",
       "group": "0201-0300",
-      "title": "Chapter 218 - Secret",
+      "title": "Chapter 222",
       "episode": 222
     },
     {
@@ -1787,7 +1795,7 @@
       "sourceLabel": "English",
       "path": "eng/0223.md",
       "group": "0201-0300",
-      "title": "Chapter 219",
+      "title": "Chapter 223 - Wretched",
       "episode": 223
     },
     {
@@ -1795,7 +1803,7 @@
       "sourceLabel": "English",
       "path": "eng/0224.md",
       "group": "0201-0300",
-      "title": "Chapter 220",
+      "title": "Chapter 224",
       "episode": 224
     },
     {
@@ -1803,7 +1811,7 @@
       "sourceLabel": "English",
       "path": "eng/0225.md",
       "group": "0201-0300",
-      "title": "Chapter 221",
+      "title": "Chapter 225 - Rescuing",
       "episode": 225
     },
     {
@@ -1811,7 +1819,7 @@
       "sourceLabel": "English",
       "path": "eng/0226.md",
       "group": "0201-0300",
-      "title": "Chapter 222",
+      "title": "Chapter 226 - Intention",
       "episode": 226
     },
     {
@@ -1819,7 +1827,7 @@
       "sourceLabel": "English",
       "path": "eng/0227.md",
       "group": "0201-0300",
-      "title": "Chapter 223 - Wretched",
+      "title": "Chapter 227 - Reunion",
       "episode": 227
     },
     {
@@ -1827,7 +1835,7 @@
       "sourceLabel": "English",
       "path": "eng/0228.md",
       "group": "0201-0300",
-      "title": "Chapter 224",
+      "title": "Chapter 228 - Punishing Heart",
       "episode": 228
     },
     {
@@ -1835,7 +1843,7 @@
       "sourceLabel": "English",
       "path": "eng/0229.md",
       "group": "0201-0300",
-      "title": "Chapter 234",
+      "title": "Chapter 229 - Parting",
       "episode": 229
     },
     {
@@ -1843,7 +1851,7 @@
       "sourceLabel": "English",
       "path": "eng/0230.md",
       "group": "0201-0300",
-      "title": "Chapter 235",
+      "title": "Chapter 230 - Wound",
       "episode": 230
     },
     {
@@ -1851,7 +1859,7 @@
       "sourceLabel": "English",
       "path": "eng/0231.md",
       "group": "0201-0300",
-      "title": "Chapter 236",
+      "title": "Chapter 231 - Return Home",
       "episode": 231
     },
     {
@@ -1859,7 +1867,7 @@
       "sourceLabel": "English",
       "path": "eng/0232.md",
       "group": "0201-0300",
-      "title": "Chapter 237",
+      "title": "Chapter 232 - Loved Ones",
       "episode": 232
     },
     {
@@ -1867,7 +1875,7 @@
       "sourceLabel": "English",
       "path": "eng/0233.md",
       "group": "0201-0300",
-      "title": "Chapter 238",
+      "title": "Chapter 233 - Blood Omen",
       "episode": 233
     },
     {
@@ -1875,7 +1883,7 @@
       "sourceLabel": "English",
       "path": "eng/0234.md",
       "group": "0201-0300",
-      "title": "Chapter 239",
+      "title": "Chapter 234 - Despair",
       "episode": 234
     },
     {
@@ -1883,7 +1891,7 @@
       "sourceLabel": "English",
       "path": "eng/0235.md",
       "group": "0201-0300",
-      "title": "Chapter 249",
+      "title": "Chapter 235 - Without Regrets",
       "episode": 235
     },
     {
@@ -1891,7 +1899,7 @@
       "sourceLabel": "English",
       "path": "eng/0236.md",
       "group": "0201-0300",
-      "title": "Chapter 250",
+      "title": "Chapter 236 - Perplexity",
       "episode": 236
     },
     {
@@ -1899,7 +1907,7 @@
       "sourceLabel": "English",
       "path": "eng/0237.md",
       "group": "0201-0300",
-      "title": "Chapter 251",
+      "title": "Chapter 237 - Killing Intent",
       "episode": 237
     },
     {
@@ -1907,7 +1915,7 @@
       "sourceLabel": "English",
       "path": "eng/0238.md",
       "group": "0201-0300",
-      "title": "Chapter 252",
+      "title": "Chapter 238 - Sorrow",
       "episode": 238
     },
     {
@@ -1915,7 +1923,7 @@
       "sourceLabel": "English",
       "path": "eng/0239.md",
       "group": "0201-0300",
-      "title": "Chapter 253",
+      "title": "Chapter 239 - Parting",
       "episode": 239
     },
     {
@@ -1923,7 +1931,7 @@
       "sourceLabel": "English",
       "path": "eng/0240.md",
       "group": "0201-0300",
-      "title": "Chapter 254",
+      "title": "Chapter 240 - Conspiracy",
       "episode": 240
     },
     {
@@ -1931,7 +1939,7 @@
       "sourceLabel": "English",
       "path": "eng/0241.md",
       "group": "0201-0300",
-      "title": "Chapter 255",
+      "title": "Chapter 241 - Night Breeze",
       "episode": 241
     },
     {
@@ -1939,7 +1947,7 @@
       "sourceLabel": "English",
       "path": "eng/0242.md",
       "group": "0201-0300",
-      "title": "Chapter 256",
+      "title": "Chapter 242 - Redeem vow",
       "episode": 242
     },
     {
@@ -1947,7 +1955,7 @@
       "sourceLabel": "English",
       "path": "eng/0243.md",
       "group": "0201-0300",
-      "title": "Vol 4 Chapter 204",
+      "title": "Chapter 243 - Pude",
       "episode": 243
     },
     {
@@ -1955,7 +1963,7 @@
       "sourceLabel": "English",
       "path": "eng/0244.md",
       "group": "0201-0300",
-      "title": "Chapter 240 - Conspiracy",
+      "title": "Chapter 244 - Extraordinary Treasure",
       "episode": 244
     },
     {
@@ -1963,7 +1971,7 @@
       "sourceLabel": "English",
       "path": "eng/0245.md",
       "group": "0201-0300",
-      "title": "Chapter 241 - Night Breeze",
+      "title": "Chapter 245 - Fear",
       "episode": 245
     },
     {
@@ -1971,7 +1979,7 @@
       "sourceLabel": "English",
       "path": "eng/0246.md",
       "group": "0201-0300",
-      "title": "Chapter 242 - Redeem vow",
+      "title": "Chapter 246 - Hope",
       "episode": 246
     },
     {
@@ -1979,7 +1987,7 @@
       "sourceLabel": "English",
       "path": "eng/0247.md",
       "group": "0201-0300",
-      "title": "Chapter 243 - Pude",
+      "title": "Chapter 247 - Qian Kun Lock",
       "episode": 247
     },
     {
@@ -1987,7 +1995,7 @@
       "sourceLabel": "English",
       "path": "eng/0248.md",
       "group": "0201-0300",
-      "title": "Chapter 244 - Extraordinary Treasure",
+      "title": "Chapter 248 - Helpless",
       "episode": 248
     },
     {
@@ -1995,7 +2003,7 @@
       "sourceLabel": "English",
       "path": "eng/0249.md",
       "group": "0201-0300",
-      "title": "Chapter 245 - Fear",
+      "title": "Chapter 249 - Astrolabe",
       "episode": 249
     },
     {
@@ -2003,7 +2011,7 @@
       "sourceLabel": "English",
       "path": "eng/0250.md",
       "group": "0201-0300",
-      "title": "Chapter 246 - Hope",
+      "title": "Chapter 250 - Sorrow",
       "episode": 250
     },
     {
@@ -2011,7 +2019,7 @@
       "sourceLabel": "English",
       "path": "eng/0251.md",
       "group": "0201-0300",
-      "title": "Chapter 247 - Qian Kun Lock",
+      "title": "Chapter 251 - Secret Struggle",
       "episode": 251
     },
     {
@@ -2019,7 +2027,7 @@
       "sourceLabel": "English",
       "path": "eng/0252.md",
       "group": "0201-0300",
-      "title": "Chapter 248 - Helpless",
+      "title": "Chapter 252 - Ferocious Monkey",
       "episode": 252
     },
     {
@@ -2027,7 +2035,7 @@
       "sourceLabel": "English",
       "path": "eng/0253.md",
       "group": "0201-0300",
-      "title": "Chapter 257",
+      "title": "Chapter 253 - Monster",
       "episode": 253
     },
     {
@@ -2035,7 +2043,7 @@
       "sourceLabel": "English",
       "path": "eng/0254.md",
       "group": "0201-0300",
-      "title": "Chapter 258",
+      "title": "Chapter 254 - Parting in Death",
       "episode": 254
     },
     {
@@ -2043,7 +2051,7 @@
       "sourceLabel": "English",
       "path": "eng/0255.md",
       "group": "0201-0300",
-      "title": "Chapter 259 - Zhu Xian",
+      "title": "Chapter 255 - Leaning close",
       "episode": 255
     },
     {
@@ -2051,7 +2059,7 @@
       "sourceLabel": "English",
       "path": "eng/0256.md",
       "group": "0201-0300",
-      "title": "Chapter 255 - Leaning close",
+      "title": "Chapter 256 - Memorial Tablet",
       "episode": 256
     },
     {
@@ -2059,7 +2067,7 @@
       "sourceLabel": "English",
       "path": "eng/0257.md",
       "group": "0201-0300",
-      "title": "Chapter 256 - Memorial Tablet",
+      "title": "Chapter 257 - Summon",
       "episode": 257
     },
     {
@@ -2067,7 +2075,7 @@
       "sourceLabel": "English",
       "path": "eng/0258.md",
       "group": "0201-0300",
-      "title": "Chapter 257 - Summon",
+      "title": "Chapter 258 - Heaven Dao-Way",
       "episode": 258
     },
     {
@@ -2075,7 +2083,7 @@
       "sourceLabel": "English",
       "path": "eng/0259.md",
       "group": "0201-0300",
-      "title": "Chapter 258 - Heaven Dao-Way",
+      "title": "Chapter 259 - Zhu Xian",
       "episode": 259
     },
     {
@@ -2083,40 +2091,8 @@
       "sourceLabel": "English",
       "path": "eng/0260.md",
       "group": "0201-0300",
-      "title": "Chapter 259 - Zhu Xian",
+      "title": "Chapter 260 - Epilogue",
       "episode": 260
-    },
-    {
-      "id": "eng/0261.md",
-      "sourceLabel": "English",
-      "path": "eng/0261.md",
-      "group": "0201-0300",
-      "title": "Epilogue",
-      "episode": 261
-    },
-    {
-      "id": "eng/0262.md",
-      "sourceLabel": "English",
-      "path": "eng/0262.md",
-      "group": "0201-0300",
-      "title": "Zhu Xian Vol 4 Chapter 10",
-      "episode": 262
-    },
-    {
-      "id": "eng/0263.md",
-      "sourceLabel": "English",
-      "path": "eng/0263.md",
-      "group": "0201-0300",
-      "title": "Zhu Xian Vol 4 Chapter 204",
-      "episode": 263
-    },
-    {
-      "id": "eng/0264.md",
-      "sourceLabel": "English",
-      "path": "eng/0264.md",
-      "group": "0201-0300",
-      "title": "Zhu Xian Vol 4 Chapter 208",
-      "episode": 264
     }
   ]
 }

@@ -25,8 +25,8 @@ Caomiao Village (မြက်ကျောင်းရွာ) တွင် တစ
 d:\zhuxian\
 ├── .github/workflows/      # GitHub Actions CI/CD (GitHub Pages auto-deploy)
 ├── reader/                 # Static web reader (PWA, offline cache, mobile-friendly)
-├── eng/                    # English source chapters (0001.md – 0264.md)
-├── burmese/                # Burmese translated chapters (0001.md – 0264.md)
+├── eng/                    # English source chapters (0000.md – 0260.md)
+├── burmese/                # Burmese translated chapters (0000.md – 0260.md)
 ├── ref.md                  # Comprehensive translation reference bible
 ├── SKILL.md                # AI Agent translation skill & system instructions
 ├── track.md                # Translation progress tracker (Single Source of Truth)
@@ -37,8 +37,9 @@ d:\zhuxian\
 
 - **`reader/`**: Markdown အခန်းများကို browser တွင် အလွယ်တကူ ဖတ်ရှုနိုင်သော Modern Web Reader (PWA / Offline cache အထောက်အပံ့ပါဝင်သည်)။
 - **`.github/workflows/deploy-pages.yml`**: Git push ပြုလုပ်လိုက်တိုင်း GitHub Pages သို့ Reader website ကို အလိုအလျောက် build လုပ်ပြီး deploy ပေးမည့် GitHub Actions Pipeline။
-- **`eng/`**: အင်္ဂလိပ် မူရင်း အခန်းများ (စုစုပေါင်း ၂၆၄ ခန်း)။ ဖိုင်အမည်များကို 4-digit zero-padded စနစ် (`0001.md` = Prologue, `0002.md` = Chapter 1 မှစ၍ `0264.md` အထိ) ဖြင့် သိမ်းဆည်းထားသည်။
-- **`burmese/`**: မြန်မာဘာသာပြန် အခန်းများ။ မူရင်း English ဖိုင်အမည်များနှင့် တစ်ထပ်တည်း တူညီစွာ (`burmese/0001.md`, `burmese/0002.md` စသဖြင့်) သိမ်းဆည်းမည်။
+- **`eng/`**: အင်္ဂလိပ် မူရင်း အခန်းများ (စုစုပေါင်း ၂၆၁ ခန်း: `0000.md` [နိဒါန်း] မှ `0260.md` [ဇာတ်သိမ်း] အထိ)။ ဖိုင်အမည်များကို 4-digit zero-padded စနစ် (`0000.md` = Chapter 0 - Prologue, `0001.md` = Chapter 1 မှစ၍ `0260.md` = Chapter 260 - Epilogue အထိ) ဖြင့် အခန်းနံပါတ်နှင့် အတွင်းစာသား ခေါင်းစဉ်များ ၁၀၀% ကိုက်ညီအောင် စနစ်တကျ စီစဉ်ထားသည်။ ပျောက်ဆုံးနေသော အခန်းများ (Volume 7 အခန်း ၁၀ မှ ၁၈ အထိ / Chapters 225-233) ကို မူရင်းတရုတ်စာသားမှ တိုက်ရိုက်ဖြည့်စွက် ဘာသာပြန်ဆိုထားပါသည်။
+- **`burmese/`**: မြန်မာဘာသာပြန် အခန်းများ။ မူရင်း English ဖိုင်အမည်များနှင့် တစ်ထပ်တည်း တူညီစွာ (`burmese/0000.md`, `burmese/0001.md` စသဖြင့်) သိမ်းဆည်းမည်။
+
 - **`ref.md`**: ဘာသာပြန်ရာတွင် အခြေခံရမည့် တရားဝင် အကိုးအကားကျမ်း (ဝတ္ထုသမိုင်း၊ ဇာတ်ကောင် ၃၀ ကျော်၊ ဂိုဏ်းများ၊ ရတနာများ၊ နတ်သားရဲကြီးများ၊ ကျင့်စဉ်အဆင့်များနှင့် တရားဝင် မြန်မာပြန် ဝေါဟာရများ)။
 - **`SKILL.md`**: ဘာသာပြန် AI Agent လိုက်နာရမည့် ဘာသာစကားလေသံ၊ စည်းမျဉ်းများ၊ ဇာတ်ကောင်အလိုက် စကားပြောဟန်များနှင့် အသုံးအနှုန်းဇယားများ။
 - **`track.md`**: ဘာသာပြန်ပြီးစီးမှု အခြေအနေ (Progress tracker)။
