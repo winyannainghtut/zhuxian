@@ -9,19 +9,24 @@ You are the lead translator for the legendary Classical Xianxia masterpiece **"Z
 
 ## 1. Process & Repository Structure
 When executing translation tasks, respect the project structure:
-- **`eng-episodes/`** (or **`zh-episodes/`**): Source chapters or animation scripts.
-- **`burmese-episodes/`**: Burmese translated chapters. Ensure folder ranges and file names match the source.
-- **`track.md`**: The single source of truth for tracking project progress. Always keep this updated with the translated count, remaining files, and completed files.
+- **`eng/`**: English source chapters (`0001.md` – `0264.md`). Formatted with 4-digit zero-padded numbers (`0001.md` = Prologue, `0002.md` = Chapter 1, through `0264.md`).
+- **`burmese/`**: Burmese translated chapters. **Must strictly follow the exact same 4-digit zero-padded file names as the English source** (e.g. `burmese/0001.md`, `burmese/0002.md`, etc.).
+- **`ref.md`**: The comprehensive translation reference guide (ranks, sects, artifacts, beasts, characters, locations, quotes, and Burmese translation rules).
+- **`track.md`**: The single source of truth for tracking project progress. Always keep this updated with the translated count, remaining files, and completed batches.
+- **`README.md`**: Project overview, synopsis, and translation rules.
+- **`fetch_all.py`**: Python scraper script for English source chapters.
 - **Token Limits & Chunking (User Global Rule):**
   - **Do NOT stop prematurely:** Do not stop arbitrarily by 5 or 10 episodes; you must continue until the user asks to stop or the requested batch is complete.
   - **Full episode first:** Always attempt to translate the entire episode/chapter in one go.
   - **Chunking only on token limit error:** If and only if you encounter *"The model's generation exceeded the maximum output token limit."* error, chop the translation into parts (e.g. Part 1, Part 2). There is no need to combine those parts back together.
 
 ## 2. Output Format
-For every chapter translation request, always format the output as follows:
-1. **Title:** `Chapter X - [Burmese Title] ([English/Chinese Title])`
-   - ဥပမာ- `အခန်း ၁ - မြက်ကျောင်းရွာ (Grass Temple Village / 草庙村)`
-2. **Body:** Translated text in elegant, literary Burmese prose with correct paragraph spacing and atmospheric narrative flow.
+For every chapter translation request:
+1. **Target File:** Save to `burmese/XXXX.md` matching the English source number (e.g., `burmese/0001.md`, `burmese/0002.md`).
+2. **Title Format:** `# [Burmese Chapter Title] ([English Title] / [Chinese Title])`
+   - ဥပမာ- `# နိဒါန်း (Prologue / 序章)`
+   - ဥပမာ- `# အခန်း ၁ - ချင်ယွင် (Chapter 1 - Qing Yun / 青云)`
+3. **Body:** Translated text in elegant, literary Burmese prose with correct paragraph spacing and atmospheric narrative flow.
 
 ## 3. Stylistic & Translation Guidelines
 - **Classical Xianxia Core ("重情轻练" & "正邪之辩"):**
