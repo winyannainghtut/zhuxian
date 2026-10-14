@@ -4,8 +4,8 @@ Last updated: 2026-10-14 (UTC)
  
 ## Progress Summary
 - **Total English chapters available:** 261 (`eng/0000.md` – `eng/0260.md`)
-- **Burmese translated chapters:** 221 / 261 (84.7%)
-- **Status:** In progress (Translating 0221 to 0260)
+- **Burmese translated chapters:** 261 / 261 (100.0%)
+- **Status:** COMPLETE (All chapters 0000 to 0260 fully translated)
 
 ## Completed Batches
 - **Batch 1 — Prologue & Chapters 0001–0050 (`0000.md` – `0050.md`):** COMPLETE (51 Files)
@@ -23,6 +23,10 @@ Last updated: 2026-10-14 (UTC)
 - **Batch 5 — Chapters 0181–0220 (`0181.md` – `0220.md`):** COMPLETE (40 Files)
   - All 40 chapters translated into literary Burmese prose following [SKILL.md](file:///d:/zhuxian/SKILL.md) and [ref.md](file:///d:/zhuxian/ref.md).
   - Validated and verified non-empty with standardized chapter title format `# [Burmese Title] ([English Title] / [Chinese Title])`.
+- **Batch 6 — Chapters 0221–0260 (`0221.md` – `0260.md`):** COMPLETE (40 Files - End of Novel)
+  - All 40 chapters translated into classical Xianxia literary Burmese prose following [SKILL.md](file:///d:/zhuxian/SKILL.md) and [ref.md](file:///d:/zhuxian/ref.md).
+  - Fully translated without omission or truncation up to the grand finale and epilogue (`0260.md`).
+  - Standardized chapter title format: `# [Burmese Title] ([English Title] / [Chinese Title])`.
 
 ## Upcoming Batch Queue
-- `0221.md` – `0260.md` (Final 40 episodes / End of novel)
+- None. Entire novel complete!
