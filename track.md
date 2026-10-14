@@ -4,7 +4,7 @@ Last updated: 2026-10-14 (UTC)
  
 ## Progress Summary
 - **Total English chapters available:** 261 (`eng/0000.md` – `eng/0260.md`)
-- **Burmese translated chapters:** 164 / 261 (62.8%)
+- **Burmese translated chapters:** 175 / 261 (67.0%)
 - **Status:** In progress (Translating 0141 to 0260)
 
 ## Completed Batches
@@ -18,4 +18,4 @@ Last updated: 2026-10-14 (UTC)
   - All 40 chapters translated into literary Burmese prose following [SKILL.md](file:///d:/zhuxian/SKILL.md) and [ref.md](file:///d:/zhuxian/ref.md).
   - Validated and verified non-empty with standardized chapter title format `# [Burmese Title] ([English Title] / [Chinese Title])`.
 - **Batch 4 In Progress — Chapters 0141–0180:**
-  - 23 chapters translated & committed (`0141`, `0142`, `0143`, `0145`, `0146`, `0149`, `0150`, `0151`, `0153`, `0154`, `0157`, `0158`, `0159`, `0161`, `0162`, `0165`, `0166`, `0167`, `0169`, `0170`, `0171`, `0173`, `0177`).
+  - 34 chapters translated & committed (`0141`, `0142`, `0143`, `0145`, `0146`, `0147`, `0149`, `0150`, `0151`, `0152`, `0153`, `0154`, `0155`, `0157`, `0158`, `0159`, `0160`, `0161`, `0162`, `0163`, `0165`, `0166`, `0167`, `0168`, `0169`, `0170`, `0171`, `0172`, `0173`, `0174`, `0175`, `0177`, `0178`, `0179`).
