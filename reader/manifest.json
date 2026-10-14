@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T06:56:10.598233+00:00",
-  "totalEntries": 261,
+  "generatedAt": "2026-10-14T09:54:50.366724+00:00",
+  "totalEntries": 522,
   "sources": [
     "English",
     "Burmese"
@@ -2092,6 +2092,2094 @@
       "path": "eng/0260.md",
       "group": "0201-0300",
       "title": "Chapter 260 - Epilogue",
+      "episode": 260
+    },
+    {
+      "id": "burmese/0000.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0000.md",
+      "group": "0001-0100",
+      "title": "နိဒါန်း (Prologue / 序章)",
+      "episode": 0
+    },
+    {
+      "id": "burmese/0001.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0001.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁ - ချင်ယွင် (Chapter 1 - Qing Yun / 青云)",
+      "episode": 1
+    },
+    {
+      "id": "burmese/0002.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0002.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂ - ဝေခွဲမရဖြစ်ခြင်း (Chapter 2 - Confuse / 迷局)",
+      "episode": 2
+    },
+    {
+      "id": "burmese/0003.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0003.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃ - ဆန္ဒမွန် (Chapter 3 - Wish / 夙愿)",
+      "episode": 3
+    },
+    {
+      "id": "burmese/0004.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0004.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄ - ရုတ်တရက် အပြောင်းအလဲ (Chapter 4 - Surprise Change / 惊变)",
+      "episode": 4
+    },
+    {
+      "id": "burmese/0005.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0005.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅ - တပည့်အဖြစ် လက်ခံခြင်း (Chapter 5 - Adopt / 入门)",
+      "episode": 5
+    },
+    {
+      "id": "burmese/0006.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0006.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၆ - ဆရာသခင်ထံ ဦးခိုက်ခြင်း (Chapter 6 - Meeting Master / 拜师)",
+      "episode": 6
+    },
+    {
+      "id": "burmese/0007.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0007.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇ - အစပြုခြင်းအသစ် (Chapter 7 - New Beginning / 初步)",
+      "episode": 7
+    },
+    {
+      "id": "burmese/0008.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0008.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈ - သင်ကြားပြသခြင်း (Chapter 8 - Teaching / 传艺)",
+      "episode": 8
+    },
+    {
+      "id": "burmese/0009.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0009.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉ - တာအိုနှင့် ဗုဒ္ဓ (Chapter 9 - Dagos and Fuwa / 佛道)",
+      "episode": 9
+    },
+    {
+      "id": "burmese/0010.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0010.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၀ - ဝါးနက်တောအုပ် (Chapter 10 - Dark Bamboo Grove / 幽谷)",
+      "episode": 10
+    },
+    {
+      "id": "burmese/0011.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0011.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၁ - ထူးဆန်းသော အပြောင်းအလဲ (Chapter 11 - Weird Change / 异变)",
+      "episode": 11
+    },
+    {
+      "id": "burmese/0012.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0012.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၂ - ပြန်လည်ဆုံစည်းခြင်း (Chapter 12 - Reunion / 重逢)",
+      "episode": 12
+    },
+    {
+      "id": "burmese/0013.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0013.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၃ - ပါရမီရှင် (Chapter 13 - Prodigy / 英豪)",
+      "episode": 13
+    },
+    {
+      "id": "burmese/0014.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0014.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၄ - မဟာတန်ခိုးစွမ်းရည် (Chapter 14 - Divine Power / 神通)",
+      "episode": 14
+    },
+    {
+      "id": "burmese/0015.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0015.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၅ - လျှို့ဝှက်သင်ကြားပေးခြင်း (Chapter 15 - Secretly Teach / 私传)",
+      "episode": 15
+    },
+    {
+      "id": "burmese/0016.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0016.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၆ - အရာဝတ္ထုကို စေခိုင်းခြင်း (Chapter 16 - Navigate Object / 驱物)",
+      "episode": 16
+    },
+    {
+      "id": "burmese/0017.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0017.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၇ - စုံညီပွဲတော်ဆီသို့ (Chapter 17 - Attend / 赴会)",
+      "episode": 17
+    },
+    {
+      "id": "burmese/0018.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0018.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၈ - မမျှော်လင့်သော တွေ့ဆုံမှု (Chapter 18 - Come Across / 偶遇)",
+      "episode": 18
+    },
+    {
+      "id": "burmese/0019.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0019.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၉ - မဲနှိုက်ခြင်း (Chapter 19 - Draw Part / 抽签)",
+      "episode": 19
+    },
+    {
+      "id": "burmese/0020.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0020.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၀ - မာရ်နတ်ခြေရာ (Chapter 20 - Trace of Evil / 魔踪)",
+      "episode": 20
+    },
+    {
+      "id": "burmese/0021.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0021.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၁ - အမှောင်ည (Chapter 21 - Dark Night / 黑夜)",
+      "episode": 21
+    },
+    {
+      "id": "burmese/0022.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0022.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၂ - သိုင်းပြိုင်ပွဲ (Chapter 22 - Contest / 比试)",
+      "episode": 22
+    },
+    {
+      "id": "burmese/0023.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0023.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၃ - နတ်ဓား (Chapter 23 - Divine Sword / 神剑)",
+      "episode": 23
+    },
+    {
+      "id": "burmese/0024.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0024.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၄ - မထင်မှတ်သော အဖြစ် (Chapter 24 - Unexpected / 意外)",
+      "episode": 24
+    },
+    {
+      "id": "burmese/0025.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0025.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၅ - ကံကောင်းခြင်း (Chapter 25 - Luck / 运气)",
+      "episode": 25
+    },
+    {
+      "id": "burmese/0026.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0026.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၆ - မိမိကိုယ်ကို လေးစားသောမာန (Chapter 26 - Self Esteem / 自尊)",
+      "episode": 26
+    },
+    {
+      "id": "burmese/0027.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0027.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၇ - ဇွဲလုံ့လ (Chapter 27 - Persist / 坚持)",
+      "episode": 27
+    },
+    {
+      "id": "burmese/0028.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0028.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၈ - ထိပ်သီးလေးဦး (Chapter 28 - Top Four / 前四)",
+      "episode": 28
+    },
+    {
+      "id": "burmese/0029.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0029.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၂၉ - ဆန်းကြယ်သော မှော်ပညာ (Chapter 29 - Supreme Art / 奇术)",
+      "episode": 29
+    },
+    {
+      "id": "burmese/0030.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0030.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၀ - သံသယ (Chapter 30 - Suspect / 怀疑)",
+      "episode": 30
+    },
+    {
+      "id": "burmese/0031.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0031.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၁ - ဖြောင့်မတ်သော တရားဓမ္မ (Chapter 31 - Path of Righteous / 正道)",
+      "episode": 31
+    },
+    {
+      "id": "burmese/0032.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0032.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၂ - တောင်ပေါ်မှ ဆင်းသက်ခြင်း (Chapter 32 - Leave Mountain / 下山)",
+      "episode": 32
+    },
+    {
+      "id": "burmese/0033.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0033.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၃ - လင်းနို့သောင်းသောင်း (Chapter 33 - Ten Thousands Bats / 万蝠)",
+      "episode": 33
+    },
+    {
+      "id": "burmese/0034.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0034.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၄ - ရှေးဟောင်းလှိုဏ်ဂူ (Chapter 34 - Ancient Cave / 古窟)",
+      "episode": 34
+    },
+    {
+      "id": "burmese/0035.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0035.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၅ - မိစ္ဆာလူဆိုးများ (Chapter 35 - Heretics / 妖人)",
+      "episode": 35
+    },
+    {
+      "id": "burmese/0036.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0036.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၆ - ထူးဆန်းသောမျက်လုံး (Chapter 36 - Strange Eye / 怪目)",
+      "episode": 36
+    },
+    {
+      "id": "burmese/0037.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0037.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၇ - သေမင်းဝိညာဉ်ချောက် (Chapter 37 - Forsaken Abyss / 死灵渊)",
+      "episode": 37
+    },
+    {
+      "id": "burmese/0038.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0038.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၈ - ချောက်နက်ကြီး (Chapter 38 - Deep Abyss / 深渊)",
+      "episode": 38
+    },
+    {
+      "id": "burmese/0039.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0039.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၃၉ - ပြန်လည်ဆုံတွေ့ခြင်း (Chapter 39 - Meet Again / 重逢)",
+      "episode": 39
+    },
+    {
+      "id": "burmese/0040.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0040.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၀ - ရေနက်မြွေနက်ကြီး (Chapter 40 - Abyssal Viper / 黑水玄蛇)",
+      "episode": 40
+    },
+    {
+      "id": "burmese/0041.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0041.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၁ - လွတ်လမ်းမဲ့နယ်မြေ (Chapter 41 - Dead End / 绝地)",
+      "episode": 41
+    },
+    {
+      "id": "burmese/0042.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0042.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၂ - သွေးစက်လှိုဏ်ဂူ (Chapter 42 - Blooddrop Cave / 滴血洞)",
+      "episode": 42
+    },
+    {
+      "id": "burmese/0043.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0043.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၃ - ကောင်းကင်ဘုံကျမ်းစာ (Chapter 43 - Heavenly Tome / 天书)",
+      "episode": 43
+    },
+    {
+      "id": "burmese/0044.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0044.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၄ - ရွှေခေါင်းလောင်း (Chapter 44 - Golden Bell / 金铃)",
+      "episode": 44
+    },
+    {
+      "id": "burmese/0045.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0045.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၅ - နာကျင်ကြေကွဲခြင်း (Chapter 45 - Sadness / 伤痛)",
+      "episode": 45
+    },
+    {
+      "id": "burmese/0046.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0046.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၆ - လွတ်မြောက်ခြင်း (Chapter 46 - Escape / 脱困)",
+      "episode": 46
+    },
+    {
+      "id": "burmese/0047.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0047.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၇ - ပညာရှိစာဆို (Chapter 47 - Scholar / 文士)",
+      "episode": 47
+    },
+    {
+      "id": "burmese/0048.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0048.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၈ - မြို့ငယ်လေး (Chapter 48 - Small Town / 小镇)",
+      "episode": 48
+    },
+    {
+      "id": "burmese/0049.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0049.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၄၉ - လက္ခဏာဟောခြင်း (Chapter 49 - Divination / 看相)",
+      "episode": 49
+    },
+    {
+      "id": "burmese/0050.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0050.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၀ - မြေခွေးမိစ္ဆာ (Chapter 50 - Fox Spirit / 妖狐)",
+      "episode": 50
+    },
+    {
+      "id": "burmese/0051.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0051.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၁ - လျှို့ဝှက်ဆန်းကြယ် မီးလျှံမှန် (Chapter 51 - Inferno Mirror / 玄火鉴)",
+      "episode": 51
+    },
+    {
+      "id": "burmese/0052.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0052.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၂ - ကျောက်နက်ဂူ (Chapter 52 - Dark Drake Cave / 黑石洞)",
+      "episode": 52
+    },
+    {
+      "id": "burmese/0053.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0053.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၃ - မီးနဂါး (Chapter 53 - Fire Dragon / 火龙)",
+      "episode": 53
+    },
+    {
+      "id": "burmese/0054.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0054.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၄ - ထူးဆန်းသော သားရဲကြီး (Chapter 54 - Strange Beast / 异兽)",
+      "episode": 54
+    },
+    {
+      "id": "burmese/0055.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0055.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၅ - မြေခွေးကြွေလွင့်ခြင်း (Chapter 55 - Death of the Fox / 狐逝)",
+      "episode": 55
+    },
+    {
+      "id": "burmese/0056.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0056.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၆ - အတူတကွ သေဆုံးခြင်း (Chapter 56 - Die Together / 共死)",
+      "episode": 56
+    },
+    {
+      "id": "burmese/0057.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0057.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၇ - ချန်ဟယ်မြို့တော် (Chapter 57 - Chang He City / 昌合城)",
+      "episode": 57
+    },
+    {
+      "id": "burmese/0058.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0058.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၈ - ပင်လယ်ပြင်သို့ ထွက်ခွာခြင်း (Chapter 58 - Set out to Sea / 出海)",
+      "episode": 58
+    },
+    {
+      "id": "burmese/0059.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0059.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၅၉ - ကြေကွဲဝမ်းနည်းခြင်း (Chapter 59 - Broken Heart / 伤心)",
+      "episode": 59
+    },
+    {
+      "id": "burmese/0060.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0060.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၆၀ - ရက်စက်ယုတ်မာသော ဒေါသငွေ့ (Chapter 60 - Vicious Energy / 戾气)",
+      "episode": 60
+    },
+    {
+      "id": "burmese/0061.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0061.md",
+      "group": "0001-0100",
+      "title": "မိုးသက်မုန်တိုင်း (Storm / 风雨)",
+      "episode": 61
+    },
+    {
+      "id": "burmese/0062.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0062.md",
+      "group": "0001-0100",
+      "title": "အတိတ်မှ မိတ်ဆွေဟောင်း (Person of the Past / 旧人)",
+      "episode": 62
+    },
+    {
+      "id": "burmese/0063.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0063.md",
+      "group": "0001-0100",
+      "title": "မာရ်နတ်မိစ္ဆာဂိုဏ်း (Demon Sect / 魔教)",
+      "episode": 63
+    },
+    {
+      "id": "burmese/0064.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0064.md",
+      "group": "0001-0100",
+      "title": "မာရ်နတ်ဘုရင် (Ghost King / 鬼王)",
+      "episode": 64
+    },
+    {
+      "id": "burmese/0065.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0065.md",
+      "group": "0001-0100",
+      "title": "စိုးရိမ်ပူပန်မှုများ (Worries / 隐忧)",
+      "episode": 65
+    },
+    {
+      "id": "burmese/0066.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0066.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၆၆ - အတိတ်ဟောင်း (Chapter 66 - The Past / 往事)",
+      "episode": 66
+    },
+    {
+      "id": "burmese/0067.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0067.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၆၇ - သွေးစုပ်မိစ္ဆာအိုကြီး (Chapter 67 - Vampire Devil / 吸血老妖)",
+      "episode": 67
+    },
+    {
+      "id": "burmese/0068.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0068.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၆၈ - မီးလျှံနီ (Chapter 68 - Flame Spirit / 赤焰)",
+      "episode": 68
+    },
+    {
+      "id": "burmese/0069.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0069.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၆၉ - ချင်းလုံ (Chapter 69 - Azure Dragon / 青龙)",
+      "episode": 69
+    },
+    {
+      "id": "burmese/0070.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0070.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၀ - အတိတ်ဖြစ်ရပ်များ (Chapter 70 - Past Events / 往事)",
+      "episode": 70
+    },
+    {
+      "id": "burmese/0071.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0071.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၁ - ခြုံခိုတိုက်ခိုက်ခြင်း (Chapter 71 - Ambush / 伏击)",
+      "episode": 71
+    },
+    {
+      "id": "burmese/0072.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0072.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၂ - ခွေ့နွားနတ်သားရဲ (Chapter 72 - Kui Niu / 夔牛)",
+      "episode": 72
+    },
+    {
+      "id": "burmese/0073.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0073.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၃ - အကြပ်အတည်း (Chapter 73 - Impasse / 绝境)",
+      "episode": 73
+    },
+    {
+      "id": "burmese/0074.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0074.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၄ - ယိုကျီး (Chapter 74 - YouJi / 幽姬)",
+      "episode": 74
+    },
+    {
+      "id": "burmese/0075.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0075.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၅ - လျှို့ဝှက်ကြံစည်မှု (Chapter 75 - Conspiracy / 密谋)",
+      "episode": 75
+    },
+    {
+      "id": "burmese/0076.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0076.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၆ - ရင်တွင်းဆန္ဒ (Chapter 76 - Intention / 心意)",
+      "episode": 76
+    },
+    {
+      "id": "burmese/0077.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0077.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၇ - လမ်းပျောက်ဝေခွဲမရခြင်း (Chapter 77 - At a Loss / 彷徨)",
+      "episode": 77
+    },
+    {
+      "id": "burmese/0078.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0078.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၈ - စစ်ကြောမေးမြန်းခြင်း (Chapter 78 - Interrogation / 审讯)",
+      "episode": 78
+    },
+    {
+      "id": "burmese/0079.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0079.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၇၉ - အိမ်တွင်းပုန်ကန်မှု (Chapter 79 - Screen Wall / 萧墙)",
+      "episode": 79
+    },
+    {
+      "id": "burmese/0080.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0080.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၀ - လျှို့ဝှက်ပရိယာယ် (Chapter 80 - Scheme Within Scheme / 潜机)",
+      "episode": 80
+    },
+    {
+      "id": "burmese/0081.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0081.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၁ - ဘိုးဘေးဗိမာန် (Chapter 81 - Founders Ancestral Hall / 祖师祠堂)",
+      "episode": 81
+    },
+    {
+      "id": "burmese/0082.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0082.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၂ - ကျူးရှန်းရှေးဟောင်းဓား (Chapter 82 - Zhu Xian Ancient Sword / 诛仙)",
+      "episode": 82
+    },
+    {
+      "id": "burmese/0083.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0083.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၃ - အတိတ်မှ အကုသိုလ်ဆိုး (Chapter 83 - Past Sin / 宿孽)",
+      "episode": 83
+    },
+    {
+      "id": "burmese/0084.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0084.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၄ - သွေးကျိန်စာ (Chapter 84 - Blood Curse / 血咒)",
+      "episode": 84
+    },
+    {
+      "id": "burmese/0085.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0085.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၅ - ဆယ်နှစ်တာ ကာလ (Chapter 85 - Ten Years / 十年)",
+      "episode": 85
+    },
+    {
+      "id": "burmese/0086.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0086.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၆ - ခရီးဝေး (Chapter 86 - Long Journey / 远行)",
+      "episode": 86
+    },
+    {
+      "id": "burmese/0087.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0087.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၇ - ခြေရာဟောင်းနေရာ (Chapter 87 - Old Places / 故地)",
+      "episode": 87
+    },
+    {
+      "id": "burmese/0088.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0088.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၈ - တာ့ဝမ်ရွာ (Chapter 88 - Big Wang Village / 大王村)",
+      "episode": 88
+    },
+    {
+      "id": "burmese/0089.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0089.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၈၉ - စာလုံးဟောကိန်း (Chapter 89 - Fortune Telling / 测字)",
+      "episode": 89
+    },
+    {
+      "id": "burmese/0090.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0090.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၀ - သေမင်းရွှံ့နွံ (Chapter 90 - Dead Marsh / 死泽)",
+      "episode": 90
+    },
+    {
+      "id": "burmese/0091.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0091.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၁ - လူကောင်း ယဲ့ကော် (Wild Dog The Good Person / 好人野狗)",
+      "episode": 91
+    },
+    {
+      "id": "burmese/0092.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0092.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၂ - ပုစဉ်းကောင် (Mantis / 螳螂)",
+      "episode": 92
+    },
+    {
+      "id": "burmese/0093.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0093.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၃ - ငှက်ဝါ (Oriole / 黄雀)",
+      "episode": 93
+    },
+    {
+      "id": "burmese/0094.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0094.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၄ - လမ်းဆုံး (End of the Road / 末路)",
+      "episode": 94
+    },
+    {
+      "id": "burmese/0095.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0095.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၅ - အဆိပ်ငွေ့ (Miasma / 瘴气)",
+      "episode": 95
+    },
+    {
+      "id": "burmese/0096.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0096.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၆ - ဆန်းကြယ်သောပန်း (Chapter 96 - Mysterious Flower / 奇花)",
+      "episode": 96
+    },
+    {
+      "id": "burmese/0097.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0097.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၇ - ညဉ့်ယံစကားဝိုင်း (Chapter 97 - Night Talk / 夜谈)",
+      "episode": 97
+    },
+    {
+      "id": "burmese/0098.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0098.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၈ - အတိတ်သံယောဇဉ် (Chapter 98 - Past Affections / 旧时意)",
+      "episode": 98
+    },
+    {
+      "id": "burmese/0099.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0099.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၉၉ - ထူးဆန်းသောနိမိတ် (Chapter 99 - Unusual Sign / 异兆)",
+      "episode": 99
+    },
+    {
+      "id": "burmese/0100.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0100.md",
+      "group": "0001-0100",
+      "title": "အခန်း ၁၀၀ - ဧရာမသစ်ပင်ကြီး (Chapter 100 - Gigantic Tree / 巨树)",
+      "episode": 100
+    },
+    {
+      "id": "burmese/0101.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0101.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၁ - အဆွေဟောင်းသံယောဇဉ် (Chapter 101 - Old Friends Sentiments / 故人情)",
+      "episode": 101
+    },
+    {
+      "id": "burmese/0102.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0102.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၂ - ရေနက်မြွေနက်ကြီး (Chapter 102 - Black Snake / 玄蛇)",
+      "episode": 102
+    },
+    {
+      "id": "burmese/0103.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0103.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၃ - နတ်ငှက်ဝါ (Chapter 103 - Yellow Bird / 黄鸟)",
+      "episode": 103
+    },
+    {
+      "id": "burmese/0104.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0104.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၄ - ရှောင်ဟွေး (Chapter 104 - Xiao Hui / 小灰)",
+      "episode": 104
+    },
+    {
+      "id": "burmese/0105.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0105.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၅ - ငါးမိစ္ဆာ (Chapter 105 - Fish Monster / 鱼怪)",
+      "episode": 105
+    },
+    {
+      "id": "burmese/0106.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0106.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၆ - မေးမြန်းစုံစမ်းခြင်း (Chapter 106 - Question / 问讯)",
+      "episode": 106
+    },
+    {
+      "id": "burmese/0107.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0107.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၇ - ဓားအက (Chapter 107 - Sword Dance / 剑舞)",
+      "episode": 107
+    },
+    {
+      "id": "burmese/0108.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0108.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၈ - ရှေးဟောင်းကျောင်းတော် (Chapter 108 - Ancient Temple / 古刹)",
+      "episode": 108
+    },
+    {
+      "id": "burmese/0109.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0109.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၀၉ - မာရ်နတ်အစီအရင် (Chapter 109 - Devil Formation / 魔阵)",
+      "episode": 109
+    },
+    {
+      "id": "burmese/0110.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0110.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၀ - တိတ်တဆိတ် ဝင်ရောက်ခြင်း (Chapter 110 - Sneaking / 潜入)",
+      "episode": 110
+    },
+    {
+      "id": "burmese/0111.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0111.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၁ - ရွှမ်ဟော့ယဇ်ပလ္လင် (Chapter 111 - Inferno Altar / 玄火坛)",
+      "episode": 111
+    },
+    {
+      "id": "burmese/0112.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0112.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၂ - လုပ်ကြံသတ်ဖြတ်ခြင်း (Chapter 112 - Assassination / 暗杀)",
+      "episode": 112
+    },
+    {
+      "id": "burmese/0113.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0113.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၃ - ထူးဆန်းသော သားရဲကြီး (Chapter 113 - Strange Beast / 异兽)",
+      "episode": 113
+    },
+    {
+      "id": "burmese/0114.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0114.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၄ - နတ်မြေခွေး (Chapter 114 - Celestial Fox / 天狐)",
+      "episode": 114
+    },
+    {
+      "id": "burmese/0115.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0115.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၅ - မြေခွေးဖြူ (Chapter 115 - White Fox / 白狐)",
+      "episode": 115
+    },
+    {
+      "id": "burmese/0116.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0116.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၆ - အချုပ်အနှောင်မှ လွတ်မြောက်ခြင်း (Chapter 116 - Escape / 脱困)",
+      "episode": 116
+    },
+    {
+      "id": "burmese/0117.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0117.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၇ - မျှော်လင့်ချက် (Chapter 117 - Hope / 希望)",
+      "episode": 117
+    },
+    {
+      "id": "burmese/0118.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0118.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၈ - ထျန်ဆွေတပ်စခန်း (Chapter 118 - TianShui Stockade / 天水寨)",
+      "episode": 118
+    },
+    {
+      "id": "burmese/0119.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0119.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၁၉ - အေးစက်သောညဉ့်ယံ (Chapter 119 - Cold Night / 寒夜)",
+      "episode": 119
+    },
+    {
+      "id": "burmese/0120.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0120.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၀ - နက်ရှိုင်းသောအမာရွတ် (Chapter 120 - Deep Scar / 深痕)",
+      "episode": 120
+    },
+    {
+      "id": "burmese/0121.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0121.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၁ - ခြေရာခံခြင်း (Chapter 121 - Tracking / 追踪)",
+      "episode": 121
+    },
+    {
+      "id": "burmese/0122.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0122.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၂ - ခုနစ်မိုင်လှိုဏ်ဂူ (Chapter 122 - Seven Mile Cave / 七里峒)",
+      "episode": 122
+    },
+    {
+      "id": "burmese/0123.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0123.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၃ - အရက်ပြင်း (Chapter 123 - Strong Liquor / 烈酒)",
+      "episode": 123
+    },
+    {
+      "id": "burmese/0124.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0124.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၄ - ယဇ်ပလ္လင် (Chapter 124 - The Altar / 祭坛)",
+      "episode": 124
+    },
+    {
+      "id": "burmese/0125.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0125.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၅ - လီမျိုးနွယ် (Chapter 125 - Li Tribe / 黎族)",
+      "episode": 125
+    },
+    {
+      "id": "burmese/0126.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0126.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၆ - မီးနက် (Chapter 126 - Black Fire / 黑火)",
+      "episode": 126
+    },
+    {
+      "id": "burmese/0127.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0127.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၇ - နှလုံးကြေကွဲခြင်း (Chapter 127 - Broken-hearted / 伤心)",
+      "episode": 127
+    },
+    {
+      "id": "burmese/0128.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0128.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၈ - မိစ္ဆာနတ်ဆရာ (Chapter 128 - Evil Shaman / 巫妖)",
+      "episode": 128
+    },
+    {
+      "id": "burmese/0129.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0129.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၂၉ - ရင်တွင်းဆန္ဒ (Chapter 129 - Intention / 心意)",
+      "episode": 129
+    },
+    {
+      "id": "burmese/0130.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0130.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၀ - နောက်ယောင်ခံလိုက်ခြင်း (Chapter 130 - Pursue / 追踪)",
+      "episode": 130
+    },
+    {
+      "id": "burmese/0131.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0131.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၁ - ဒဏ္ဍာရီ (Chapter 131 - Legend / 传说)",
+      "episode": 131
+    },
+    {
+      "id": "burmese/0132.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0132.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၂ - ထူးဆန်းထိတ်လန့်ဖွယ် သစ်တော (Chapter 132 - Eerie Forest / 诡林)",
+      "episode": 132
+    },
+    {
+      "id": "burmese/0133.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0133.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၃ - နှုတ်ဆက်ခွဲခွာခြင်း (Chapter 133 - Farewell / 诀别)",
+      "episode": 133
+    },
+    {
+      "id": "burmese/0134.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0134.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၄ - အငြိုးကြီးသော ဝိညာဉ်ဆိုး (Chapter 134 - Fierce Spirit / 凶灵)",
+      "episode": 134
+    },
+    {
+      "id": "burmese/0135.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0135.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၅ - ပြန်လည်ရှင်သန်ခြင်း (Chapter 135 - Revived / 复活)",
+      "episode": 135
+    },
+    {
+      "id": "burmese/0136.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0136.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၆ - သတ်ဖြတ်လိုသော မာရ်နတ်ငွေ့ (Chapter 136 - Murderous Air / 煞气)",
+      "episode": 136
+    },
+    {
+      "id": "burmese/0137.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0137.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၇ - ထူးဆန်းသောပညာ (Chapter 137 - Unusual Skill / 异术)",
+      "episode": 137
+    },
+    {
+      "id": "burmese/0138.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0138.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၈ - ဝိညာဉ်ခေါ်ငင်ခြင်း (Chapter 138 - Spirit Calling Bait / 招魂引)",
+      "episode": 138
+    },
+    {
+      "id": "burmese/0139.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0139.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၃၉ - နှလုံးကြေကွဲသူ (Chapter 139 - Broken-hearted Man / 伤心人)",
+      "episode": 139
+    },
+    {
+      "id": "burmese/0140.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0140.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၀ - စိတ်ဓာတ်ကျဆင်းခြင်း (Chapter 140 - Decadent / 颓废)",
+      "episode": 140
+    },
+    {
+      "id": "burmese/0141.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0141.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၁ - မမျှော်လင့်ဘဲ ဆုံဆည်းခြင်း (Chapter 141 - Chance Encounter / 相逢)",
+      "episode": 141
+    },
+    {
+      "id": "burmese/0142.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0142.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၂ - သတ်ဖြတ်လိုသော စိတ်ဆန္ဒ (Chapter 142 - Murderous Intentions / 杀意)",
+      "episode": 142
+    },
+    {
+      "id": "burmese/0143.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0143.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၃ - တွေဝေလမ်းပျောက်ခြင်း (Chapter 143 - At a loss / 彷徨)",
+      "episode": 143
+    },
+    {
+      "id": "burmese/0144.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0144.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၄ - ကံကြမ္မာ (Chapter 144 - Predestined Fate / 宿命)",
+      "episode": 144
+    },
+    {
+      "id": "burmese/0145.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0145.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၅ - သဘောမတူနိုင်ခြင်း (Chapter 145 - Reluctant / 不愿)",
+      "episode": 145
+    },
+    {
+      "id": "burmese/0146.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0146.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၆ - မမျှော်လင့်ဘဲ ဆုံတွေ့ခြင်း (Chapter 146 - Chance Encounters / 偶遇)",
+      "episode": 146
+    },
+    {
+      "id": "burmese/0147.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0147.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၇ - တွေ့ဆုံခြင်း (Chapter 147 - To Meet / 相见)",
+      "episode": 147
+    },
+    {
+      "id": "burmese/0148.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0148.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၈ - ကောက်ကျစ်သော အကြံအစည် (Chapter 148 - Venomous Scheme / 毒计)",
+      "episode": 148
+    },
+    {
+      "id": "burmese/0149.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0149.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၄၉ - မဟာမိတ်ဖွဲ့ခြင်း (Chapter 149 - Alliance / 会盟)",
+      "episode": 149
+    },
+    {
+      "id": "burmese/0150.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0150.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၀ - ပြည်တွင်းပုန်ကန်မှု (Chapter 150 - Internal Conflict / 内乱)",
+      "episode": 150
+    },
+    {
+      "id": "burmese/0151.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0151.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၁ - ပြင်းထန်သောအဆိပ် (Chapter 151 - Hypertoxic / 剧毒)",
+      "episode": 151
+    },
+    {
+      "id": "burmese/0152.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0152.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၂ - ရူးသွပ်ခြင်း (Chapter 152 - Insane / 疯狂)",
+      "episode": 152
+    },
+    {
+      "id": "burmese/0153.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0153.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၃ - အဝီစိငရဲ (Chapter 153 - Purgatory / 炼狱)",
+      "episode": 153
+    },
+    {
+      "id": "burmese/0154.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0154.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၄ - ကျေးဇူးမဲ့ခြင်း (Chapter 154 - Unfilial / 不孝)",
+      "episode": 154
+    },
+    {
+      "id": "burmese/0155.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0155.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၅ - ညဉ့်ယမကာ (Chapter 155 - Night Drinks / 夜饮)",
+      "episode": 155
+    },
+    {
+      "id": "burmese/0156.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0156.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၆ - နေအိမ်ဟောင်း (Chapter 156 - Former Residence / 旧居)",
+      "episode": 156
+    },
+    {
+      "id": "burmese/0157.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0157.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၇ - ကန်တော့ပူဇော်ခြင်း (Chapter 157 - Paying Respect / 祭奠)",
+      "episode": 157
+    },
+    {
+      "id": "burmese/0158.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0158.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၈ - ညအချိန် စူးစမ်းရှာဖွေခြင်း (Chapter 158 - Night Exploration / 夜探)",
+      "episode": 158
+    },
+    {
+      "id": "burmese/0159.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0159.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၅၉ - သရဲဝိညာဉ်လမ်းစဉ် (Chapter 159 - The Way of Ghost / 鬼道)",
+      "episode": 159
+    },
+    {
+      "id": "burmese/0160.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0160.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၀ - လျှို့ဝှက်ချက် (Chapter 160 - Secret / 秘密)",
+      "episode": 160
+    },
+    {
+      "id": "burmese/0161.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0161.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၁ - ရုန်းကန်လှုပ်ရှားခြင်း (Chapter 161 - Struggle / 挣扎)",
+      "episode": 161
+    },
+    {
+      "id": "burmese/0162.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0162.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၂ - အထီးကျန်ခြင်း (Chapter 162 - Lonely / 寂寞)",
+      "episode": 162
+    },
+    {
+      "id": "burmese/0163.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0163.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၃ - လျှို့ဝှက်ပုန်းကွယ်သူ (Chapter 163 - Concealed Person / 隐者)",
+      "episode": 163
+    },
+    {
+      "id": "burmese/0164.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0164.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၄ - လျှို့ဝှက်ကြံစည်ခြင်း (Chapter 164 - Plotting / 暗算)",
+      "episode": 164
+    },
+    {
+      "id": "burmese/0165.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0165.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၅ - မာယာလမင်း (Chapter 165 - Illusory Moon / 幻月)",
+      "episode": 165
+    },
+    {
+      "id": "burmese/0166.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0166.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၆ - ပြင်းထန်သောတိုက်ပွဲ (Chapter 166 - Intense Fight / 激战)",
+      "episode": 166
+    },
+    {
+      "id": "burmese/0167.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0167.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၇ - တားမြစ်နယ်မြေ (Chapter 167 - Forbidden Place / 禁地)",
+      "episode": 167
+    },
+    {
+      "id": "burmese/0168.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0168.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၈ - လောကနှောင်ကြိုး (Chapter 168 - Bonds of the world / 羁绊)",
+      "episode": 168
+    },
+    {
+      "id": "burmese/0169.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0169.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၆၉ - နီမြန်းသောမီးလျှံ (Chapter 169 - Red Flame / 赤焰)",
+      "episode": 169
+    },
+    {
+      "id": "burmese/0170.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0170.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၀ - အဆုံးအဖြတ်တိုက်ပွဲ (Chapter 170 - Decisive Battle / 决战)",
+      "episode": 170
+    },
+    {
+      "id": "burmese/0171.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0171.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၁ - စုန်းပညာ (Chapter 171 - Witchcraft / 巫术)",
+      "episode": 171
+    },
+    {
+      "id": "burmese/0172.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0172.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၂ - မိစ္ဆာသားရဲ (Chapter 172 - Demon Beast / 妖兽)",
+      "episode": 172
+    },
+    {
+      "id": "burmese/0173.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0173.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၃ - နတ်ဓား (Chapter 173 - Divine Sword / 神剑)",
+      "episode": 173
+    },
+    {
+      "id": "burmese/0174.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0174.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၄ - ကျူးရှန်း (Chapter 174 - Zhu Xian / 诛仙)",
+      "episode": 174
+    },
+    {
+      "id": "burmese/0175.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0175.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၅ - သွေးစုပ်ဝါးမြိုခြင်း (Chapter 175 - Blood Devouring / 噬血)",
+      "episode": 175
+    },
+    {
+      "id": "burmese/0176.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0176.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၆ - ထွက်ပြေးလွတ်မြောက်ခြင်း (Chapter 176 - Flight / 逃亡)",
+      "episode": 176
+    },
+    {
+      "id": "burmese/0177.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0177.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၇ - အနက်ရောင်ဝတ်လူ (Chapter 177 - Man in Black / 黑衣人)",
+      "episode": 177
+    },
+    {
+      "id": "burmese/0178.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0178.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၈ - တရားထိုင်ခန်းမဆောင် (Chapter 178 - Meditation Room / 禅室)",
+      "episode": 178
+    },
+    {
+      "id": "burmese/0179.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0179.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၇၉ - လောကီဗုဒ္ဓဗိမာန် (Chapter 179 - Secular Buddhist Hall / 俗世佛堂)",
+      "episode": 179
+    },
+    {
+      "id": "burmese/0180.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0180.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၀ - ဒုက္ခပင်လယ်ကို ဖြတ်သန်းရခက်ခဲခြင်း (Chapter 180 - Difficult to Cross the Sea of Bitterness / 苦海难渡)",
+      "episode": 180
+    },
+    {
+      "id": "burmese/0181.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0181.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၁ - အကုသိုလ်ရေစက် (Chapter 181 - Sinful Affinity / 孽缘)",
+      "episode": 181
+    },
+    {
+      "id": "burmese/0182.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0182.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၂ - ချေဖျက်ခြင်း (Chapter 182 - Dissolution / 化解)",
+      "episode": 182
+    },
+    {
+      "id": "burmese/0183.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0183.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၃ - မှုန်မှိုင်းသော အရိပ်ဆိုး (Chapter 183 - Haze / 阴霾)",
+      "episode": 183
+    },
+    {
+      "id": "burmese/0184.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0184.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၄ - စာလုံးမဲ့ ကျောက်စိမ်းနံရံ (Chapter 184 - Wordless Jade Wall / 无字玉璧)",
+      "episode": 184
+    },
+    {
+      "id": "burmese/0185.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0185.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၅ - ကောင်းကင်ဘုံ၏ ပြစ်ဒဏ် (Chapter 185 - Heavenly Punishment / 天刑)",
+      "episode": 185
+    },
+    {
+      "id": "burmese/0186.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0186.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၆ - ဖြတ်သန်းရခက်ခဲခြင်း (Chapter 186 - Difficult to Cross / 难渡)",
+      "episode": 186
+    },
+    {
+      "id": "burmese/0187.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0187.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၇ - လျှို့ဝှက်အမိန့် (Chapter 187 - Secret Order / 密令)",
+      "episode": 187
+    },
+    {
+      "id": "burmese/0188.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0188.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၈ - ခွေးရူး (Chapter 188 - Mad Dog / 疯狗)",
+      "episode": 188
+    },
+    {
+      "id": "burmese/0189.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0189.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၈၉ - ဝိညာဉ်ဆင့်ခေါ်ခြင်း (Chapter 189 - Soul Gathering / 收魂)",
+      "episode": 189
+    },
+    {
+      "id": "burmese/0190.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0190.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၀ - သရဲဝိညာဉ်လမ်းစဉ် (Chapter 190 - Ghost Way / 鬼道)",
+      "episode": 190
+    },
+    {
+      "id": "burmese/0191.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0191.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၁ - ရုတ်ခြည်းထွက်ပေါ်လာခြင်း (Chapter 191 - Startling Appearance / 惊现)",
+      "episode": 191
+    },
+    {
+      "id": "burmese/0192.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0192.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၂ - သွေးစိမ်းရှင်ရှင် (Chapter 192 - Fresh Blood / 鲜血)",
+      "episode": 192
+    },
+    {
+      "id": "burmese/0193.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0193.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၃ - မူမမှန်ခြင်း (Chapter 193 - Abnormality / 异样)",
+      "episode": 193
+    },
+    {
+      "id": "burmese/0194.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0194.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၄ - လျှို့ဝှက်ချက် ပေါက်ကြားခြင်း (Chapter 194 - Divulging the Secret / 泄密)",
+      "episode": 194
+    },
+    {
+      "id": "burmese/0195.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0195.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၅ - အတွင်းဒဏ်ရာ (Chapter 195 - Hidden Wound / 暗伤)",
+      "episode": 195
+    },
+    {
+      "id": "burmese/0196.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0196.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၆ - ဆုံးဖြတ်ချက် (Chapter 196 - Decision / 决定)",
+      "episode": 196
+    },
+    {
+      "id": "burmese/0197.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0197.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၇ - ခြေရာများ (Chapter 197 - Footprints / 足迹)",
+      "episode": 197
+    },
+    {
+      "id": "burmese/0198.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0198.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၈ - နေရာဟောင်း (Chapter 198 - Old Place / 旧地)",
+      "episode": 198
+    },
+    {
+      "id": "burmese/0199.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0199.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၁၉၉ - ကောင်းမှုကုသိုလ် (Chapter 199 - Merit / 功德)",
+      "episode": 199
+    },
+    {
+      "id": "burmese/0200.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0200.md",
+      "group": "0101-0200",
+      "title": "အခန်း ၂၀၀ - အမျက်ဒေါသအစစ်အမှန် (Chapter 200 - True Anger / 真怒)",
+      "episode": 200
+    },
+    {
+      "id": "burmese/0201.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0201.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၁ - စာသားမဲ့ ဝိညာဉ်ပြား (Chapter 201 - Wordless Spirit Tablet / 无字灵牌)",
+      "episode": 201
+    },
+    {
+      "id": "burmese/0202.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0202.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၂ - အချစ်ဒဏ်ရာ (Chapter 202 - Heartache / 情伤)",
+      "episode": 202
+    },
+    {
+      "id": "burmese/0203.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0203.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၃ - လင်းနို့နက် (Chapter 203 - Black Bat / 黑蝠)",
+      "episode": 203
+    },
+    {
+      "id": "burmese/0204.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0204.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၄ - ထူးဆန်းသောလူ (Chapter 204 - Strange Person / 异人)",
+      "episode": 204
+    },
+    {
+      "id": "burmese/0205.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0205.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၅ - နတ်မြေခွေး (Chapter 205 - Celestial Fox / 天狐)",
+      "episode": 205
+    },
+    {
+      "id": "burmese/0206.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0206.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၆ - လျှို့ဝှက်ဆန်းကြယ်သူ (Chapter 206 - Mysterious Person / 神秘人)",
+      "episode": 206
+    },
+    {
+      "id": "burmese/0207.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0207.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၇ - ပြန်လည်ဆုံတွေ့ခြင်း (Chapter 207 - Reunion / 重逢)",
+      "episode": 207
+    },
+    {
+      "id": "burmese/0208.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0208.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၈ - ကျိုးပဲ့နေသောဓား (Chapter 208 - Broken Sword / 残剑)",
+      "episode": 208
+    },
+    {
+      "id": "burmese/0209.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0209.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၀၉ - မာယာပရိယာယ် (Chapter 209 - Scheming / 心机)",
+      "episode": 209
+    },
+    {
+      "id": "burmese/0210.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0210.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၀ - မိစ္ဆာသားရဲ (Chapter 210 - Devil Beast / 魔兽)",
+      "episode": 210
+    },
+    {
+      "id": "burmese/0211.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0211.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၁ - လိုက်လံဖမ်းဆီးခြင်း (Chapter 211 - Pursuit / 追逐)",
+      "episode": 211
+    },
+    {
+      "id": "burmese/0212.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0212.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၂ - ကြောက်မက်ဖွယ်ရာ (Chapter 212 - Horror / 恐怖)",
+      "episode": 212
+    },
+    {
+      "id": "burmese/0213.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0213.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၃ - ပါ့ဟွမ် မီးနဂါးကြီး (Chapter 213 - Eight Wilderness Fire Dragon / 八荒火龙)",
+      "episode": 213
+    },
+    {
+      "id": "burmese/0214.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0214.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၄ - ကမ္ဘာပျက်ကပ်ဘေး (Chapter 214 - Doomsday / 末日)",
+      "episode": 214
+    },
+    {
+      "id": "burmese/0215.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0215.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၅ - ရင်ခွင်ပိုက်ဖက်ခြင်း (Chapter 215 - Embrace / 拥抱)",
+      "episode": 215
+    },
+    {
+      "id": "burmese/0216.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0216.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၆ - ခွဲခွာခြင်း (Chapter 216 - Parting / 离别)",
+      "episode": 216
+    },
+    {
+      "id": "burmese/0217.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0217.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၇ - စိတ်တွင်းမာရ်နတ် (Chapter 217 - Heart Demon / 心魔)",
+      "episode": 217
+    },
+    {
+      "id": "burmese/0218.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0218.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၈ - လျှို့ဝှက်ချက် (Chapter 218 - Secret / 秘密)",
+      "episode": 218
+    },
+    {
+      "id": "burmese/0219.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0219.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၁၉ - ဆရာသတ်ခြင်း (Chapter 219 - Slaying the Master / 弑师)",
+      "episode": 219
+    },
+    {
+      "id": "burmese/0220.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0220.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၀ - သွေးခင်းကျင်း (Chapter 220 - Blood Array / 血阵)",
+      "episode": 220
+    },
+    {
+      "id": "burmese/0221.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0221.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၁ - အတိတ်မြေဟောင်း (Chapter 221 - Former Ground / 故地)",
+      "episode": 221
+    },
+    {
+      "id": "burmese/0222.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0222.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၂ - လျှို့ဝှက်ကြံစည်တိုက်ခိုက်ခြင်း (Chapter 222 - Sneak Attack / 暗算)",
+      "episode": 222
+    },
+    {
+      "id": "burmese/0223.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0223.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၃ - ကောက်ကျစ်စဉ်းလဲခြင်း (Chapter 223 - Wretched / 猥琐)",
+      "episode": 223
+    },
+    {
+      "id": "burmese/0224.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0224.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၄ - စုစည်းဆုံတွေ့ခြင်း (Chapter 224 - Convergence / 汇聚)",
+      "episode": 224
+    },
+    {
+      "id": "burmese/0225.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0225.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၅ - ကယ်တင်ခြင်း (Chapter 225 - Rescuing / 相救)",
+      "episode": 225
+    },
+    {
+      "id": "burmese/0226.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0226.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၆ - စိတ်နှလုံးဆန္ဒ (Chapter 226 - Intention / 心意)",
+      "episode": 226
+    },
+    {
+      "id": "burmese/0227.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0227.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၇ - ပြန်လည်ဆုံစည်းခြင်း (Chapter 227 - Reunion / 重逢)",
+      "episode": 227
+    },
+    {
+      "id": "burmese/0228.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0228.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၈ - နှလုံးသားကို သတ်ဖြတ်ခြင်း (Chapter 228 - Punishing Heart / 诛心)",
+      "episode": 228
+    },
+    {
+      "id": "burmese/0229.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0229.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၂၉ - ခွဲခွာခြင်း (Chapter 229 - Parting / 别离)",
+      "episode": 229
+    },
+    {
+      "id": "burmese/0230.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0230.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၀ - ဒဏ်ရာ (Chapter 230 - Wound / 伤口)",
+      "episode": 230
+    },
+    {
+      "id": "burmese/0231.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0231.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၁ - အိမ်ပြန်ခြင်း (Chapter 231 - Return Home / 回家)",
+      "episode": 231
+    },
+    {
+      "id": "burmese/0232.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0232.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၂ - ချစ်ခင်ရသူများ (Chapter 232 - Loved Ones / 亲人)",
+      "episode": 232
+    },
+    {
+      "id": "burmese/0233.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0233.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၃ - သွေးနိမိတ် (Chapter 233 - Blood Omen / 血兆)",
+      "episode": 233
+    },
+    {
+      "id": "burmese/0234.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0234.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၄ - မျှော်လင့်ချက်မဲ့ခြင်း (Chapter 234 - Despair / 绝望)",
+      "episode": 234
+    },
+    {
+      "id": "burmese/0235.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0235.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၅ - နောင်တကင်းမဲ့ခြင်း (Chapter 235 - Without Regrets / 无悔)",
+      "episode": 235
+    },
+    {
+      "id": "burmese/0236.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0236.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၆ - တွေဝေရှုပ်ထွေးမှု (Chapter 236 - Perplexity / 困惑)",
+      "episode": 236
+    },
+    {
+      "id": "burmese/0237.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0237.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၇ - သတ်ဖြတ်လိုသောစိတ် (Chapter 237 - Killing Intent / 杀意)",
+      "episode": 237
+    },
+    {
+      "id": "burmese/0238.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0238.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၈ - ဝမ်းနည်းကြေကွဲခြင်း (Chapter 238 - Sorrow / 悲伤)",
+      "episode": 238
+    },
+    {
+      "id": "burmese/0239.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0239.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၃၉ - ခွဲခွာခြင်း (Chapter 239 - Parting / 别离)",
+      "episode": 239
+    },
+    {
+      "id": "burmese/0240.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0240.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၀ - လျှို့ဝှက်ကြံစည်မှု (Chapter 240 - Conspiracy / 密谋)",
+      "episode": 240
+    },
+    {
+      "id": "burmese/0241.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0241.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၁ - ညဉ့်လေပြည် (Chapter 241 - Night Breeze / 夜风)",
+      "episode": 241
+    },
+    {
+      "id": "burmese/0242.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0242.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၂ - ကတိသစ္စာ ဖြည့်ဆည်းခြင်း (Chapter 242 - Redeem vow / 还愿)",
+      "episode": 242
+    },
+    {
+      "id": "burmese/0243.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0243.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၃ - ဖူသယ် (Chapter 243 - Pude / 普德)",
+      "episode": 243
+    },
+    {
+      "id": "burmese/0244.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0244.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၄ - အံ့ဖွယ်ရတနာ (Chapter 244 - Extraordinary Treasure / 异宝)",
+      "episode": 244
+    },
+    {
+      "id": "burmese/0245.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0245.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၅ - ကြောက်ရွံ့ထိတ်လန့်ခြင်း (Chapter 245 - Fear / 恐惧)",
+      "episode": 245
+    },
+    {
+      "id": "burmese/0246.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0246.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၆ - မျှော်လင့်ချက် (Chapter 246 - Hope / 希望)",
+      "episode": 246
+    },
+    {
+      "id": "burmese/0247.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0247.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၇ - ချန်ခွန်းသော့ခလောက် (Chapter 247 - Qian Kun Lock / 乾坤锁)",
+      "episode": 247
+    },
+    {
+      "id": "burmese/0248.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0248.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၈ - ကိုးရာမဲ့ခြင်း (Chapter 248 - Helpless / 无奈)",
+      "episode": 248
+    },
+    {
+      "id": "burmese/0249.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0249.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၄၉ - ကြယ်တာရာဗေဒင်ဗျာဒိတ်ခွက် (Chapter 249 - Astrolabe / 星盘)",
+      "episode": 249
+    },
+    {
+      "id": "burmese/0250.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0250.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၀ - ကြေကွဲဝမ်းနည်းခြင်း (Chapter 250 - Sorrow / 悲哀)",
+      "episode": 250
+    },
+    {
+      "id": "burmese/0251.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0251.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၁ - တိတ်တဆိတ် အားပြိုင်ခြင်း (Chapter 251 - Secret Struggle / 暗斗)",
+      "episode": 251
+    },
+    {
+      "id": "burmese/0252.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0252.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၂ - ကြမ်းကြုတ်ရက်စက်သော မျောက်သားရဲ (Chapter 252 - Ferocious Monkey / 凶猴)",
+      "episode": 252
+    },
+    {
+      "id": "burmese/0253.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0253.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၃ - မိစ္ဆာသတ္တဝါ (Chapter 253 - Monster / 妖物)",
+      "episode": 253
+    },
+    {
+      "id": "burmese/0254.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0254.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၄ - သေကွဲကွဲခြင်း (Chapter 254 - Parting in Death / 死别)",
+      "episode": 254
+    },
+    {
+      "id": "burmese/0255.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0255.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၅ - ရင်ခွင်မှီတွယ်ခြင်း (Chapter 255 - Leaning close / 依偎)",
+      "episode": 255
+    },
+    {
+      "id": "burmese/0256.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0256.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၆ - ဝိညာဉ်ကမ္ပည်းပြား (Chapter 256 - Memorial Tablet / 灵位)",
+      "episode": 256
+    },
+    {
+      "id": "burmese/0257.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0257.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၇ - ဆင့်ခေါ်ခြင်း (Chapter 257 - Summon / 召唤)",
+      "episode": 257
+    },
+    {
+      "id": "burmese/0258.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0258.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၈ - ကောင်းကင်တာအို (Chapter 258 - Heaven Dao-Way / 天道)",
+      "episode": 258
+    },
+    {
+      "id": "burmese/0259.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0259.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၅၉ - ကျူးရှန်း (Chapter 259 - Zhu Xian / 诛仙)",
+      "episode": 259
+    },
+    {
+      "id": "burmese/0260.md",
+      "sourceLabel": "Burmese",
+      "path": "burmese/0260.md",
+      "group": "0201-0300",
+      "title": "အခန်း ၂၆၀ - ဇာတ်သိမ်းပိုင်း (Chapter 260 - Epilogue / 尾声)",
       "episode": 260
     }
   ]

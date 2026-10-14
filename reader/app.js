@@ -50,6 +50,7 @@
   ];
 
   const VALID_THEMES = new Set([
+    "system",
     "light",
     "eink",
     "eink-warm",
@@ -60,7 +61,7 @@
   ]);
 
   const defaultSettings = {
-    theme: "eink",
+    theme: "system",
     fontSize: 19,
     lineHeight: 1.75,
     width: 780,
@@ -147,6 +148,10 @@
     offlineTargetIds: [],
     offlineError: "",
     swRegistration: null,
+
+    /* PWA install */
+    deferredInstallPrompt: null,
+    installDismissed: false,
   };
 
   /* ─────────────────────────────────────────────────────────────
@@ -218,6 +223,11 @@
     dlToastBar: q("dlToastBar"),
     dlToastDetail: q("dlToastDetail"),
     dlToastClose: q("dlToastClose"),
+    installBanner: q("installBanner"),
+    installBtn: q("installBtn"),
+    installDismissBtn: q("installDismissBtn"),
+    autoScrollSlowerBtn: q("autoScrollSlowerBtn"),
+    autoScrollFasterBtn: q("autoScrollFasterBtn"),
     themeColorMeta: document.getElementById("themeColorMeta"),
   };
 
@@ -364,6 +374,47 @@
     /* Offline cache */
     on(els.offlineCacheBtn, "click", () => startOfflineDownload());
 
+    /* PWA install */
+    window.addEventListener("beforeinstallprompt", (e) => {
+      e.preventDefault();
+      state.deferredInstallPrompt = e;
+      if (!state.installDismissed && els.installBanner) {
+        els.installBanner.hidden = false;
+      }
+    });
+    on(els.installBtn, "click", async () => {
+      if (!state.deferredInstallPrompt) return;
+      state.deferredInstallPrompt.prompt();
+      const result = await state.deferredInstallPrompt.userChoice;
+      state.deferredInstallPrompt = null;
+      if (els.installBanner) els.installBanner.hidden = true;
+    });
+    on(els.installDismissBtn, "click", () => {
+      state.installDismissed = true;
+      if (els.installBanner) els.installBanner.hidden = true;
+    });
+    window.addEventListener("appinstalled", () => {
+      state.deferredInstallPrompt = null;
+      state.installDismissed = true;
+      if (els.installBanner) els.installBanner.hidden = true;
+    });
+
+    /* Auto-scroll speed +/- */
+    on(els.autoScrollSlowerBtn, "click", (e) => {
+      e.stopPropagation();
+      const speed = normalizeAutoScrollSpeed(state.settings.autoScrollSpeed - 8);
+      state.settings.autoScrollSpeed = speed;
+      applyAutoScrollSettings();
+      saveSettings();
+    });
+    on(els.autoScrollFasterBtn, "click", (e) => {
+      e.stopPropagation();
+      const speed = normalizeAutoScrollSpeed(state.settings.autoScrollSpeed + 8);
+      state.settings.autoScrollSpeed = speed;
+      applyAutoScrollSettings();
+      saveSettings();
+    });
+
     /* Scroll to top */
     on(els.scrollToTopBtn, "click", scrollToTop);
 
@@ -432,6 +483,12 @@
 
     /* Responsive */
     addMediaQueryListener(MOBILE_QUERY, syncResponsiveState);
+
+    /* System theme change listener */
+    addMediaQueryListener(
+      window.matchMedia("(prefers-color-scheme: dark)"),
+      () => { if (state.settings.theme === "system") applyTheme(); }
+    );
 
     /* Gestures */
     bindReaderGestures();
@@ -1603,6 +1660,7 @@
     void els.content.offsetWidth;
     els.content.classList.add("reader-transition-enter");
     els.content.innerHTML = output;
+    appendEndOfChapterCard();
     applyContentLang(options.sourceLabel);
 
     requestAnimationFrame(() => {
@@ -1625,6 +1683,32 @@
       updateReadProgressFromScroll();
       scheduleScrollToTopButtonUpdate(0);
     });
+  }
+
+  function appendEndOfChapterCard() {
+    if (!state.currentId || !els.content) return;
+    const navEntries = getNavigationEntries();
+    const idx = navEntries.findIndex((e) => e.id === state.currentId);
+    const nextEntry = idx >= 0 && idx < navEntries.length - 1 ? navEntries[idx + 1] : null;
+
+    const card = document.createElement("div");
+    card.className = "chapter-end-card";
+
+    const label = document.createElement("span");
+    label.className = "chapter-end-label";
+    label.textContent = "— End of chapter —";
+    card.appendChild(label);
+
+    if (nextEntry) {
+      const btn = document.createElement("button");
+      btn.type = "button";
+      btn.className = "chapter-end-btn";
+      btn.textContent = `Next: ${nextEntry.title} →`;
+      btn.addEventListener("click", () => openChapter(nextEntry.id, { closeSidebarOnMobile: false }));
+      card.appendChild(btn);
+    }
+
+    els.content.appendChild(card);
   }
 
   function renderMarkdownToSafeHtml(markdown, chapterPath) {
@@ -1870,6 +1954,14 @@
     const btn = state.chapterButtonById.get(state.currentId);
     if (btn) refreshChapterItemBadges(state.currentId, btn);
     updateStats();
+    /* Bookmark pop animation */
+    [els.bookmarkBtn, els.navBookmarkBtn].forEach((b) => {
+      if (!b) return;
+      b.classList.remove("bookmark-animate");
+      void b.offsetWidth;
+      b.classList.add("bookmark-animate");
+      b.addEventListener("animationend", () => b.classList.remove("bookmark-animate"), { once: true });
+    });
   }
 
   function toggleBookmark(chapterId) {
@@ -1992,7 +2084,13 @@
   }
 
   function resolveTheme(theme) {
-    return VALID_THEMES.has(theme) ? theme : defaultSettings.theme;
+    if (!VALID_THEMES.has(theme)) return "eink";
+    if (theme === "system") {
+      return window.matchMedia("(prefers-color-scheme: dark)").matches
+        ? "dark"
+        : "eink";
+    }
+    return theme;
   }
 
   function updateThemeColor(resolved) {

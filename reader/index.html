@@ -18,6 +18,9 @@
 </head>
 
 <body>
+    <!-- Skip to content -->
+    <a href="#contentStage" class="skip-to-content">Skip to content</a>
+
     <!-- Ambient background glow -->
     <div class="app-orbital-glow" id="ambientGlow" aria-hidden="true"></div>
 
@@ -195,6 +198,7 @@
                         <label for="themeSelect">
                             Theme
                             <select id="themeSelect">
+                                <option value="system">System (Auto)</option>
                                 <option value="light">Light</option>
                                 <option value="eink">E-Ink</option>
                                 <option value="eink-warm">Warm E-Ink</option>
@@ -314,6 +318,7 @@
             </nav>
 
             <div class="auto-scroll-control" id="autoScrollControl" aria-live="polite">
+                <button class="auto-scroll-speed-btn" id="autoScrollSlowerBtn" type="button" aria-label="Slower">−</button>
                 <button class="auto-scroll-toggle" id="autoScrollToggleBtn" type="button"
                     aria-label="Start auto scroll" aria-pressed="false">
                     <svg class="icon-glyph auto-scroll-play-icon" viewBox="0 0 24 24" fill="none"
@@ -329,6 +334,7 @@
                     <span class="auto-scroll-label" id="autoScrollLabel">Auto</span>
                     <span class="auto-scroll-speed" id="autoScrollSpeedPill">32 px/s</span>
                 </button>
+                <button class="auto-scroll-speed-btn" id="autoScrollFasterBtn" type="button" aria-label="Faster">+</button>
             </div>
         </main>
         <!-- /reader-panel -->
@@ -373,6 +379,15 @@
                 </button>
             </div>
         </div>
+    </div>
+
+    <!-- PWA install banner -->
+    <div class="install-banner" id="installBanner" hidden>
+        <span class="install-banner-text">Install Zhu Xian Reader for faster access & offline reading</span>
+        <button class="install-banner-action" id="installBtn" type="button">Install</button>
+        <button class="install-banner-dismiss" id="installDismissBtn" type="button" aria-label="Dismiss">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+        </button>
     </div>
 
     <!-- Vendored libs (pinned + SRI) -->
