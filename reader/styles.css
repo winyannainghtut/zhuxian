@@ -886,6 +886,14 @@ aside.sidebar {
     transform: translateX(-50%) translateY(10px);
 }
 
+/* The floating auto-scroll pill would cover the bottom of the open settings
+   sheet on mobile, so fade it out while the sheet is open. */
+.reader-panel:has(#settingsPanel:not([hidden])) .auto-scroll-control {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateX(-50%) translateY(10px);
+}
+
 .auto-scroll-toggle {
     min-height: 42px;
     padding: 7px 12px;
@@ -1338,7 +1346,9 @@ aside.sidebar {
         right: calc(12px + var(--safe-right));
         top: calc(12px + var(--safe-top));
         width: auto;
-        transform: translateY(var(--toolbar-shift-y, 0px));
+        /* Must stay transform-free: a transformed ancestor becomes the containing
+           block for the fixed-position settings panel and pushes it off-screen. */
+        transform: none;
     }
 
     .toolbar-primary {
