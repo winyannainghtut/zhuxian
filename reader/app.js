@@ -22,9 +22,9 @@
   const LEGACY_PROGRESS_KEY = "novel_reader_scroll_progress_v1";
 
   const MOBILE_QUERY = window.matchMedia("(max-width: 979px)");
-  const FONT_SIZE_MIN = 14;
+  const FONT_SIZE_MIN = 16;
   const FONT_SIZE_MAX = 32;
-  const FONT_SIZE_STEP = 1;
+  const FONT_SIZE_STEP = 2;
   const SEARCH_DEBOUNCE_MS = 120;
   const CHAPTER_LIST_BATCH_SIZE = 200;
   const CHAPTER_LIST_SCROLL_THRESHOLD = 240;
